@@ -20,10 +20,7 @@ Overall, the only out of ordinary thing I found for the website, in comparison t
 
 ---
 # Quick Start Guide
-
-## How to Quickly Change the Background on Your Windows Computer
-So you have a photo and want to my it your desktop background, here it how to do it.
-- First, open ‘File Explorer.’ 
+[ENC 4265_ Quick-Start Guide.pdf](https://github.com/user-attachments/files/18612762/ENC.4265_.Quick-Start.Guide.pdf)
 
 ---
 # Reflective Blog 3
