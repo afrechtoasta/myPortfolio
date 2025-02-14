@@ -3,10 +3,14 @@
 # Manual Assessment Memo
 
 MEMORANDUM 
+
 TO: HP
 FROM: Alisa Crawford
+
 SUBJECT: Recommendations for Maintenance and Service Guide 
+
 DATE: February 13th, 2025
+
 
 I evaluated the manual for HP 17 -cp2147ng available at: https://www.manua.ls/hp/17-cp2147ng/manual  
 
