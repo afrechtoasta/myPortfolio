@@ -3,9 +3,13 @@
 # Manual Assessment Memo
 
 MEMORANDUM 
+
 TO: HP
+
 FROM: Alisa Crawford
+
 SUBJECT: Recommendations for Maintenance and Service Guide 
+
 DATE: February 13th, 2025
 
 
