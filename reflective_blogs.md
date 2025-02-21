@@ -34,7 +34,8 @@ The first improvement needed is vital categories not present in the original pro
 
 Therefore, my follow-up prompt was, “Could you include a ‘Quality Criteria’, ‘Evaluating Criteria’, and 'Procurement or Contracting Plan' in it. Plus please be more specific, like stating the responsibilities of team members and what is included in each expense category.” The results were improved versions of the original project plan, taking note of my suggestions. I wouldn’t say it is perfect, but I think it is a great draft.
 
-To save space on the page I have included my questions and Copilot's responses in this document, 
+To save space on the page I have included my questions and Copilot's responses in this document, [Copilot Responses.pdf](https://github.com/user-attachments/files/18897954/Copilot.Responses.pdf)
+
 
 AI Check: I used Grammarly to improve my assignment and Copilot for the assignment itself.
 
