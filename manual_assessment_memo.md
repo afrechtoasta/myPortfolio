@@ -20,8 +20,8 @@ A significant number of strengths are apparent in the manual. Well-organized con
 Though the manual is good, there are a few weaknesses. Throughout the manual, in certain subsections, the phrase “select products only” is used without clarifying what the ‘select products’ are or how users can find if they have a ‘select product’. Certain instructions are given without clarification on how to access them or use them. For example, under Restoring and recovery methods, page 64, “1. Run a Microsoft System Restore”. The user is informed on what Microsoft System Restore is, but not how to access it or how to run the restore themselves.
 
 My recommendations:
-- Clarification on what models certain details in the manual apply to, and what models they don’t. 
-- Clarification on how to perform certain tasks within instructions of subsections 
+- Clarification on what computer models certain procedures in the manual apply to, and what models they don’t. 
+- Clarification on how to perform certain tasks within procedure subsections.
 
 AI Check: I used Grammarly to improve my assignment.
 
