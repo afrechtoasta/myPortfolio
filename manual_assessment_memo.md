@@ -13,7 +13,7 @@ SUBJECT: Recommendations for Maintenance and Service Guide
 DATE: February 13th, 2025
 
 
-I evaluated the manual for HP 17 -cp2147ng available at: https://www.manua.ls/hp/17-cp2147ng/manual  
+I evaluated the manual for HP 17 -cp2147ng available at: <https://www.manua.ls/hp/17-cp2147ng/manual>  
 
 A significant number of strengths are apparent in the manual. Well-organized content with a clear table of contents and index. Detailed explanation and specifications of the computer hardware and what it does. Specific spare part product numbers for the various major components of the laptop. Comprehensive instructions and knowledge on what to do, and not do, to properly care for or replace components of the laptop.As well as, the systems that help the laptop function. 
 
