@@ -5,6 +5,7 @@
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 5](#reflective-blog-5)
 
 # Wayback Analysis
 
@@ -39,3 +40,13 @@ To save space on the page I have included my questions and Copilot's responses i
 
 AI Check: I used Grammarly to improve my assignment and Copilot for the assignment itself.
 
+---
+# Reflective Blog 5
+Prompt R: 
+After chatting with a couple of chatbots for the ChatBot assignment, I found that there were many common characteristics between the different AI algorithms. They seem designed to answer most questions that don’t rely on feelings, opinions, or real-time events. The algorithms I used were, ChatGPT, Nova Pro, and Bing through Boodle Box. I decided to phrase my question as if I were talking/texting a friend to test how the algorithm responds. I used the question, “Omg queen! How many presidents in America were democrats? I literally have no clue?” 
+
+All three replies were simple and lacked ‘personality’, stating there were 16 democratic presidents and then giving me the full list of presidents. The data used for all three responses seemed to come from the internet, with all algorithms displaying a ‘searching the web…’ statement before their response. However, I recalled a time when using ChaGPT on my phone where my question was also phrased as if I was texting/talking to a friend and the response mimicked the way I had phrased my question, rather than lacking ‘personality’ as it did on BoodleBox, so I asked the same question to ChatGPT on my phone and got a very different response. The response started with the statement, “Haha! I love the energy.” then proceeded to say “16 Democratic presidents..” and at the end asked if I wanted the whole list. I responded with “Yes pls” and the follow-up reply included the statements “Of course, queen!” and “Let me know if you need any tea on any of them!” 
+
+Therefore, I think the data used to train them allows them to discern our emotions to craft a response it feels we would best understand, which can include mimicking the way we phrase our statements. However, I think some are algorithms are authorized to mimic us, like ChatGPT, while others are to remain without ‘personality’ like Bing and Nova Pro. I think overall AI does a good job at answering the questions given to it, but it has its times when it doesn’t give the exact answer you are looking for and you have to rephrase the question or urge it to give more information. For example, me having to respond, “Yes pls” to get the entire list of presidents rather than just accepting “16 Democratic presidents”. I think over time AI will just become more and more knowledgeable and understand human patterns much better, it may even predict what we could be thinking before we even ask.
+
+AI Check: I used Grammarly to improve my assignment.
