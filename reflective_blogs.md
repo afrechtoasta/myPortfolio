@@ -54,4 +54,12 @@ AI Check: I used Grammarly to improve my assignment.
 
 ---
 # Reflective Blog 6
+Prompt K:
+I asked ChatGPT to generate a Manual Assessment Memo for a Lego Flowerpot. For reference, the manual can be found here, <https://www.manua.ls/lego/flowerpot-40588/manual>. My first prompt was simple to just get an idea of what the AI thought I wanted when asking for a Manual Assessment Memo. I asked, “Write a Manual Assessment Memo for the Lego Flowerpot 40588 Manual.” ChatGPT assumed I was taking on the role of a product development team member working for LEGO. The response was thorough including an overview, general observations from throughout the manual, areas for improvements, and a conclusion. For the general observations, the AI included observations about the cover page, layout, structure, instructions quality, complexity and flow of the steps, build experience, feedback, and error free construction. The AI identified a lot of strengths for the Manual with a few recommendations for it, concluding the manual was, “ an excellent guide for builders of varying experience levels.”
+
+Comparing the AI’s assessment to the rubric I followed for my Manual Mem Assessment for a HP laptop manual I would say the AI did a great job. It described the effective strengths of the manual and explained why these strengths are effective. Then included a sections for recommendations.The layout was a bit different, but it concluded a to, from, date, and subject at the top. 
+
+To save space on the page I have included my question and ChatGPT's responses in this document, [AI Generative Manual Memo Assessment Conversation.pdf](https://github.com/user-attachments/files/19237502/AI.Generative.Manual.Memo.Assessment.Conversation.pdf).
+
+AI Check: I used Grammarly to improve my assignment and ChatGPT to complete the assignment.
 
