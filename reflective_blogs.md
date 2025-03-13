@@ -6,6 +6,7 @@
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
 
 # Wayback Analysis
 
@@ -50,3 +51,7 @@ All three replies were simple and lacked ‘personality’, stating there were 1
 Therefore, I think the data used to train them allows them to discern our emotions to craft a response it feels we would best understand, which can include mimicking the way we phrase our statements. However, I think some are algorithms are authorized to mimic us, like ChatGPT, while others are to remain without ‘personality’ like Bing and Nova Pro. I think overall AI does a good job at answering the questions given to it, but it has its times when it doesn’t give the exact answer you are looking for and you have to rephrase the question or urge it to give more information. For example, me having to respond, “Yes pls” to get the entire list of presidents rather than just accepting “16 Democratic presidents”. I think over time AI will just become more and more knowledgeable and understand human patterns much better, it may even predict what we could be thinking before we even ask.
 
 AI Check: I used Grammarly to improve my assignment.
+
+---
+# Reflective Blog 6
+
