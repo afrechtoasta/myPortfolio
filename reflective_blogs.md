@@ -7,6 +7,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)
 
 # Wayback Analysis
 
@@ -62,4 +63,10 @@ Comparing the AI’s assessment to the rubric I followed for my Manual Mem Asses
 To save space on the page I have included my question and ChatGPT's responses in this document, [AI Generative Manual Memo Assessment Conversation.pdf](https://github.com/user-attachments/files/19237502/AI.Generative.Manual.Memo.Assessment.Conversation.pdf).
 
 AI Check: I used Grammarly to improve my assignment and ChatGPT to complete the assignment.
+
+---
+# Reflective Blog 7
+Prompt F:
+The deliverable I decided to reflect on is the Manual Assessment Memo. I would say it wasn’t difficult, but rather intimidating because I had never done one before. I struggled with finding weaknesses for the manual because I felt it had many strengths and is a pretty good example of how a manual should be done, but as I spent more time examining it I found some areas that could be improved. This assignment made me realize that I focus more on the positive aspects of something rather than the negative, but I enjoy how brief and simple technical communication is. I would improve my assignment based on feedback by using bullet points and making sure my thoughts are conveyed better. 
+
 
