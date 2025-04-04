@@ -72,3 +72,6 @@ The deliverable I decided to reflect on is the Manual Assessment Memo. I would s
 
 ---
 # Reflective Blog 8
+Prompt D:
+For my assessment I chose a tutorial on how to put a bandaid on your fingertip on wikiHow. The page itself has a very simple layout. Title at the top, with a quick introduction into the struggle with bandaids under the title, and table of contents to the right. The tutorial follows with typed out instructions and drawn photos to visually depict each step. Overall I think it’s an effective tutorial page. The pictures and description explain exactly what to do and certain steps give tips on what to do and not do. There is also a video provided as another form of the tutorial. One thing I found ineffective about the page is the lack of an FAQ, there is a section on the page provided for if users have questions, but no anticipated questions answered. Like what to do if a step goes wrong or types/brands of bandaids to use. Link to the online tutorial, <https://www.wikihow.com/Put-a-Bandaid-on-Your-Fingertip>
+
