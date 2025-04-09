@@ -50,6 +50,14 @@ When on websites and social media platforms it's important to exercise online sa
 
 ---
 # How to install your CC and Mods 
+**Extracting files**
+After downloading your file, you’ll possibly need to extract the file. 
+ 1. Navigate to File Explorer on Windows and Finder on MacOS. Once there, find the ‘Download’ section and click on it.
+ 2. Find the file you downloaded and click on it to highlight it.
+ 3. You’ll notice that each file has information about it broken into columns, like Name, Size, Date Added or Date Modified. We are looking at the column titled either Type or Kind. So focusing on your highlighted file find the Type and Kind for the file
+ 4. If you see .package, .ts4script, or .txt it won’t have to be extracted, so you can move to the next section.
+ 5. If you see .zip, .rar, or .7z, it’ll have to be extracted. Which can be found [here](#FAQ) in the FAQ section.
+
 --- 
 # FAQ
 **How do I access the EA App and create an account?**
@@ -83,3 +91,5 @@ For Windows locate your file in File explorer and right-click on the file. You�
 # Resources
 
 ---
+AI Statment: Grammarly and ChatGPT was used to enhance my assignment
+
