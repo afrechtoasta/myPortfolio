@@ -22,15 +22,19 @@ One aspect of *The Sims 4* users enjoy is the ability to modify the game using s
 ---
 # System Requirements and Installation
 To begin you'll need to have the *The Sims 4* dowloaded on your PC, personal computer. This guide will provide help for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the EA app to download the software. 
-
  - First open the EA app, if you haven’t downloaded the app or created you account, check [here](#FAQ) in the FAQ for quidance on how.
- - If you already own the game, go to your library.
- - If you don't own the game, at the top in the Search bar, type The Sims 4
- - Click on the results. and purchase the game, look out for possible expansion pack bundles. After purchasing the game should be added to your library
- - Migrate to your Library and find the Sims 4
- - Click on the game and you’ll see Download, click on it.
- - The game should begin to download. Onces it finished the game should automatically install.
- - To start the game open the EA app, migrate to the Library, click on The Sims 4, and click the Play button to start the game. 
+![Figure 1](https://github.com/user-attachments/assets/e72df173-c297-46eb-89f9-0c3ebfcb380d)
+ - Once the app is open, to the left side you'll four labels *Home*, *Browse*, *Library*, *EA Play* as seen in Figure 1, click on *Library*
+ - If you own *The Sims 4* you should be able to locate it in your library game, if you don't see it in your library it means you still need to purchase it.
+ - To purchase the game, click on the search bar above *Library*, as seen Figure 1, and search *The Sims 4*
+ - Once you've clicked on the game you'll have the option to purchase or download the game.
+![Figure 2](https://github.com/user-attachments/assets/9590af9f-f09c-4f09-b145-9208d723814c)
+ - **Tip!** You'll notice a tab that says *Bundle & Save*. If you want to also purchase expansions packs create by the Sims developers throughtout the year deals occur that help you save money, so check often if there is an expansion pack you have your eye on.
+ - After purchasing the game should be added to your library, so migrate back to your Library and find *the Sims 4*
+ - Click on the game again and you’ll see Download, click on it.
+  ![Figure 3](https://github.com/user-attachments/assets/fa8ec17e-65ed-442d-854c-6d058d3efcb4)
+ - The game should begin to download which you can see in the bottom left corner of the screen, my game is currently updating so it says updating rather than downloading as shown in Figure 3. Onces it finished the game should automatically install onto your PC.
+ - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the Play button to start the game. 
 
 ---
 # In Game Modifications
@@ -61,19 +65,23 @@ After downloading your file, you’ll possibly need to extract the file.
 
 --- 
 # FAQ
-**How do I access the EA App and create an account?**
-To access the EA app, you first have to download it from the website, which can be found on the [EA wbsite]<https://www.ea.com/ea-app#downloads>. 
-
+**How do I access the EA App?**   
+- To access the EA app, you first have to download it from the website, which can be found on the [EA wbsite]<https://www.ea.com/ea-app#downloads>.
+ ![Figure 1](https://github.com/user-attachments/assets/5f044c2d-007a-4231-aeef-22abc05d544b)
+- After the software downloads, open the app. You will be greeted with a *Sign in to your EA Account* screen, as seen in *Figure 1*. Enter your credentials to access your account and if you need to set one up click *Create Account*
+- 
 **How do I extract my files after downloading them?**
 Depending on the type of file, there is two different processes.
 
 *.zip files*:
 For zip files both*Windows* and *MacOS* have built-in software that allows you to extract these types of files.
-For *MacOS*, locate your file in *Finder* and double-click on the file. It’ll automatically extract the file and create a new folder for it in the same location. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.For *Windows*, locate your file in *File explorer* and right-click on the file. You’ll see the option *Extract All*, click on that. A window will pop up asking you to choose the location for the extracted files, by default it extracts to the same folder as the .zip. Once you’ve decided the location click *Extract*. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
+- For *MacOS*, locate your file in *Finder* and double-click on the file. It’ll automatically extract the file and create a new folder for it in the same location. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
+- For *Windows*, locate your file in *File explorer* and right-click on the file. You’ll see the option *Extract All*, click on that. A window will pop up asking you to choose the location for the extracted files, by default it extracts to the same folder as the .zip. Once you’ve decided the location click *Extract*. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
 
 *For .RAR or .7z:*
 For these types of files you’ll need to download a software that will allow you to extract the file, an example is [WinRAR](<https://www.win-rar.com/download.html?&L=0>)  or [The Unarchiver](<https://theunarchiver.com/>). 
-For *MacOS* locate your file in Finder and right-click on the file. You’ll see the option Open With > The Unarchiver, click on that. The software will then extract the file and create a new folder containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. For *Windows* locate your file in File explorer and right-click on the file. You’ll see the option Extract to [folder name of file], click on that. The software will then extract the file and create a new folder, with the same name, containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. 
+- For *MacOS* locate your file in Finder and right-click on the file. You’ll see the option Open With > The Unarchiver, click on that. The software will then extract the file and create a new folder containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
+- For *Windows* locate your file in File explorer and right-click on the file. You’ll see the option Extract to [folder name of file], click on that. The software will then extract the file and create a new folder, with the same name, containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. 
 
 **I’ve installed some CC/Mods and now my game is not working?** 
 
@@ -87,7 +95,7 @@ For *MacOS* locate your file in Finder and right-click on the file. You’ll see
 
 ---
 # Resources
-
+<https://www.britannica.com/topic/The-Sims> 
 ---
 AI Statment: Grammarly and ChatGPT was used to enhance my assignment
 
