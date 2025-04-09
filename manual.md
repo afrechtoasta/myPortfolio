@@ -21,8 +21,14 @@ One aspect of *The Sims 4* users enjoy is the ability to modify the game using s
 ---
 # System Requirements and Installation
 This guide will focus on the installation of modifications on Windows and MacOS PCs (Personal Computers) and we will use the EA app to download Sims 4. 
- 1. Open the EA app, if you haven’t downloaded the app or created you account, check here in the FAQ. 
- 2. At the top in the Search bar, type The Sims 4
+ 1. Open the EA app, if you haven’t downloaded the app or created you account, check [here](#FAQ) in the FAQ. 
+ 2. If you  already own the game, go to your library.
+ 3. If you don't own the game, at the top in the Search bar, type The Sims 4
+ 4. Click on the results. and purchase the game, look out for possible expansion pack bundles. After purchasing the game should be added to your library
+ 5. Migrate to your Library and find the Sims 4
+ 6. Click on the game and you’ll see Download, click on it.
+ 7. The game should begin to download. Onces it finished the game should automatically install.
+To start the game open the EA app, migrate to the Library, click on The Sims 4, and click the Play button to start the game. 
 
 ---
 # In Game Modifications
