@@ -5,10 +5,10 @@
 # Table of Contents 
 1. [Introduction](#What-is-the-Sims-4-?) 
 2. [System Requirements and Installation](#System-Requirements-and-Installation) 
-3. [In Game Modifications](#In-Game-Modifications)
-4. [Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
-5. [Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
-6. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
+3. [Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
+4. [Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
+5. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
+6. [Checking to make sure CC and Mods are working](#Checking-t-make-sure-CC-and-Mods-are-working)
 7. [FAQ](#FAQ)
 8. [Glossary](#Glossary)
 9. [Resources](#Resources)
@@ -37,10 +37,8 @@ To begin you'll need to have the *The Sims 4* dowloaded on your PC, personal com
   ![Figure 3](https://github.com/user-attachments/assets/fa8ec17e-65ed-442d-854c-6d058d3efcb4)
 *Figure 3*  
  - The game should begin to download which you can see in the bottom left corner of the screen, my game is currently updating so it says updating rather than downloading as shown in Figure 3. Onces it finished the game should automatically install onto your PC.
- - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the Play button to start the game. 
+ - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the Play button to start the game.
 
----
-# In Game Modifications
 ---
 # Where to finds CC and Mods
 
@@ -65,45 +63,70 @@ Like iterated in, ['Where to finds CC and Mods'](#Wher-to-finds-CC-and-Mods), wh
 
 ---
 # How to install your CC and Mods 
-Once you've dowloaded 
-**Extracting files**
-After downloading your file, you’ll possibly need to extract the file. 
- 1. Navigate to File Explorer on Windows and Finder on MacOS. Once there, find the ‘Download’ section and click on it.
- 2. Find the file you downloaded and click on it to highlight it.
- 3. You’ll notice that each file has information about it broken into columns, like Name, Size, Date Added or Date Modified. We are looking at the column titled either Type or Kind. So focusing on your highlighted file find the Type and Kind for the file
- 4. If you see .package, .ts4script, or .txt it won’t have to be extracted, so you can move to the next section.
- 5. If you see .zip, .rar, or .7z, it’ll have to be extracted. Which can be found [here](#FAQ) in the FAQ section.
+Once you've dowloaded you CC its time to install it into your game.
+- First we need to extract the file. 
+  1. Navigate to File Explorer on Windows and Finder on MacOS. Once there, find the ‘Download’ section and click on it.
+  2. Find the file you downloaded and click on it to highlight it.
+  3. You’ll notice that each file has information about it broken into columns, like Name, Size, Date Added or Date Modified. We are looking at the column titled either Type or Kind. So focusing on your highlighted file find the Type and Kind for the file
+  4. If you see .package, .ts4script, or .txt it won’t have to be extracted, so you can move to the next section.
+  5. If you see .zip, .rar, or .7z, it’ll have to be extracted. Which can be found [here](#FAQ) in the FAQ section.
+- Once the file has been extracted it's time to place it into the game, select the file and press either Command + C or Ctrl + X
+
+For *Windows*:  
+- Open up *File Explorer*
+- On the left hand you'll see *This PC*, click on it, then you'll locate *Windows(C:)* and double click on that.
+- Find the folder titled *Users*, double-click on that
+- Now find the folder titled after your username, double-click on that
+- Find the folder titled *Documents*, double-click on that
+- Click on the folder titled *Electronic Arts*, double-click on that
+- Finally find the folder titled *Mods*, double click on that
+- Once there paste the document in the folder by hitting ctrl + v
+- Now your CC is in the game
+
+*For MaocOS*:
+
+- **Tip!** Create folders within you game to help organize your CC and Mods, it'll help if your looking for a certain CC file, especially if its broken and you need to remove it. 
+
+---
+# Checking to make sure CC and Mods are working
 
 --- 
 # FAQ
-**How do I access the EA App?**   
+***How do I access the EA App?***   
 - To access the EA app, you first have to download it from the website, which can be found on the [EA wbsite]<https://www.ea.com/ea-app#downloads>.
 ![Figure 1](https://github.com/user-attachments/assets/5f044c2d-007a-4231-aeef-22abc05d544b)
 Figure 1  
 - After the software downloads, open the app. You will be greeted with a *Sign in to your EA Account* screen, as seen in *Figure 1*. Enter your credentials to access your account and if you need to set one up click *Create Account*
-- 
-**How do I extract my files after downloading them?**
+
+***How do I extract my files after downloading them?***
+
 Depending on the type of file, there is two different processes.
 
-*.zip files*:
+*.zip files*:  
 For zip files both*Windows* and *MacOS* have built-in software that allows you to extract these types of files.
 - For *MacOS*, locate your file in *Finder* and double-click on the file. It’ll automatically extract the file and create a new folder for it in the same location. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
 - For *Windows*, locate your file in *File explorer* and right-click on the file. You’ll see the option *Extract All*, click on that. A window will pop up asking you to choose the location for the extracted files, by default it extracts to the same folder as the .zip. Once you’ve decided the location click *Extract*. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
 
-*For .RAR or .7z:*
+*For .RAR or .7z:*  
 For these types of files you’ll need to download a software that will allow you to extract the file, an example is [WinRAR](<https://www.win-rar.com/download.html?&L=0>)  or [The Unarchiver](<https://theunarchiver.com/>). 
 - For *MacOS* locate your file in Finder and right-click on the file. You’ll see the option Open With > The Unarchiver, click on that. The software will then extract the file and create a new folder containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
 - For *Windows* locate your file in File explorer and right-click on the file. You’ll see the option Extract to [folder name of file], click on that. The software will then extract the file and create a new folder, with the same name, containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. 
 
-**I’ve installed some CC/Mods and now my game is not working?** 
+***I’ve installed some CC/Mods and now my game is not working?***  
+
+Sometimes after adding CC or Mods into your game, the game doesn't work. The is usually something wrong like compatibility issues, example you've downloaded CC for *The Sims 3* instead of *The Sims 4*, or the CC itself can be broken and cause your game not to work. Sadly, there is no easy way to figure out which file it is, which can be a pain if you have a lot off CC and Mods in your game. However, there is a method you can apply to help figure out which file it could be. 
+ - Think back to the last time your game was working. Let us say, for example, that your game was working two days ago. Within the two days, think about how much CC you've downloaded. Again lets say you've only downloaded 3 files in the two day span, then it's probably one of those 3 files. Remove all three files and one by one add them back into the game, whichever one crashes the game is probably the cause. 
+
+***I’ve updated my game and now my CC and Mods are not working?***  
+Often when CC and Mods are create they are created to be compatable with the lastest version of the game at the time. As *The Sims 4* updates, the CC/Mods need to be updated too. Remove the current version of the CC/Mods not working from your game and find the updated version compatable with the updated game.
 
 --- 
 # Glossary
-**Custom Content (CC)** - created content that alters the appearance and functionality of a game in mostly aesthetic ways. Examples include clothing, accessories, makeup, furniture, and decor.
+**Custom Content (CC)**- created content that alters the appearance and functionality of a game in mostly aesthetic ways. Examples include clothing, accessories, makeup, furniture, and decor.
 
 **Mods (Modifications)**- alter the game's mechanics and how the game itself functions. 
 
-**Cheats** - special codes users can input that allow them to alter various things about the game, like money, relationships and skills.
+**Cheats**- special codes users can input that allow them to alter various things about the game, like money, relationships and skills.
 
 ---
 # Resources
@@ -111,5 +134,5 @@ For these types of files you’ll need to download a software that will allow yo
 <https://www.britannica.com/topic/The-Sims> 
 
 ---
-AI Statment: Grammarly and ChatGPT was used to enhance my assignment
+AI Statment: Grammarly was used to Spellcheck and ChatGPT was used to enhance my assignment
 
