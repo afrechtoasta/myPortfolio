@@ -51,7 +51,7 @@ When on websites and social media platforms it's important to exercise online sa
 # How to install your CC and Mods 
 --- 
 # FAQ
-**How do I create or access the EA App?**
+**How do I access the EA App and create an account?**
 
 **How do I extract my files after downloading them?**
 *For .zip files:*
