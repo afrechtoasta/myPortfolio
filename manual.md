@@ -101,7 +101,7 @@ Now your CC and Mods should be in the game!
 - On the left-hand side find *Other* and click on it
 - Make sure the box next to *Script Mods Allowed* is enabled, this will allow your Mods and CC to work.
 - A pop up will inform you to use CC and Mods at your own risk, select the checkmark for okay.
-- In the bottom right corner click *Aplly Changes* to save any changes made while in the *Menu*
+- In the bottom right corner click *Apply Changes* to save any changes made while in the *Menu*
 - Exit out and back on the *Menu* page select *Exit Game*
 Now when you restart you game you should be able to access your cc or mods. If you aren't able to access them in the game check the FAQ [here](#FAQ).
 
