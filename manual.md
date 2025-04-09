@@ -11,6 +11,7 @@
 6. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
 7. [FAQ](#FAQ)
 8. [Glossary](#Glossary)
+9. [Resources](#Resources)
 
 --- 
 # What is the Sims 4? 
@@ -79,4 +80,6 @@ For Windows locate your file in File explorer and right-click on the file. Youâ€
 **Cheats** - special codes users can input that allow them to alter various things about the game, like money, relationships and skills.
 
 ---
+# Resources
 
+---
