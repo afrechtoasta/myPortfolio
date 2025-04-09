@@ -37,7 +37,7 @@ To begin you'll need to have the *The Sims 4* downloaded on your PC, personal co
   ![Figure 3](https://github.com/user-attachments/assets/fa8ec17e-65ed-442d-854c-6d058d3efcb4)
 *Figure 3*  
  - The game should begin to download which you can see in the bottom left corner of the screen, my game is currently updating so it says updating rather than downloading as shown in Figure 3. Once it's finished the game should automatically install onto your PC.
- - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the Play button to start the game.
+ - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the *Play* button to start the game.
 
 ---
 # Where to finds CC and Mods
@@ -81,7 +81,6 @@ For *Windows*:
 - Click on the folder titled *Electronic Arts*, double-click on that
 - Finally find the folder titled *Mods*, double click on that
 - Once there paste the document in the folder by hitting ctrl + v
-- Now your CC is in the game
 
 *For MacOS*:
 - Open up *Finder*t
@@ -89,13 +88,22 @@ For *Windows*:
 - Click on the folder titled *Electronic Arts*, double-click on that
 - Finally find the folder titled *Mods*, double click on that
 - Once there paste the document in the folder by hitting command + v
-- Now your CC is in the game
 
+Now your CC and Mods should be in the game! 
 
 - **Tip!** Create folders within your game to help organize your CC and Mods, it'll help if you're looking for a certain CC file, especially if it's broken and you need to remove it. 
 
 ---
-# Checking to make sure CC and Mods are working
+# Checking to make sure CC and Mods are working  
+- Open the EA app, migrate to the Library, click on The Sims 4, and click the *Play* button to start the game.
+- Once the game loads and your on the home page, click the three dots in the top right corner
+- You will be presented with the *Menu*, find the *Game Options* option and click on it.
+- On the left-hand side find *Other* and click on it
+- Make sure the box next to *Script Mods Allowed* is enabled, this will allow your Mods and CC to work.
+- A pop up will inform you to use CC and Mods at your own risk, select the checkmark for okay.
+- In the bottom right corner click *Aplly Changes* to save any changes made while in the *Menu*
+- Exit out and back on the *Menu* page select *Exit Game*
+Now when you restart you game you should be able to access your cc or mods. If you aren't able to access them in the game check the FAQ [here](#FAQ).
 
 --- 
 # FAQ
