@@ -84,6 +84,13 @@ For *Windows*:
 - Now your CC is in the game
 
 *For MaocOS*:
+- Open up *Finder*t
+- Find the folder titled *Documents*, double-click on that
+- Click on the folder titled *Electronic Arts*, double-click on that
+- Finally find the folder titled *Mods*, double click on that
+- Once there paste the document in the folder by hitting command + v
+- Now your CC is in the game
+
 
 - **Tip!** Create folders within you game to help organize your CC and Mods, it'll help if your looking for a certain CC file, especially if its broken and you need to remove it. 
 
