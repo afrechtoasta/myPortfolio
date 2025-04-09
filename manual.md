@@ -24,15 +24,18 @@ One aspect of *The Sims 4* users enjoy is the ability to modify the game using s
 To begin you'll need to have the *The Sims 4* dowloaded on your PC, personal computer. This guide will provide help for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the EA app to download the software. 
  - First open the EA app, if you haven’t downloaded the app or created you account, check [here](#FAQ) in the FAQ for quidance on how.
 ![Figure 1](https://github.com/user-attachments/assets/e72df173-c297-46eb-89f9-0c3ebfcb380d)
+*Figure 1* 
  - Once the app is open, to the left side you'll four labels *Home*, *Browse*, *Library*, *EA Play* as seen in Figure 1, click on *Library*
  - If you own *The Sims 4* you should be able to locate it in your library game, if you don't see it in your library it means you still need to purchase it.
  - To purchase the game, click on the search bar above *Library*, as seen Figure 1, and search *The Sims 4*
  - Once you've clicked on the game you'll have the option to purchase or download the game.
 ![Figure 2](https://github.com/user-attachments/assets/9590af9f-f09c-4f09-b145-9208d723814c)
+*Figure 2*  
  - **Tip!** You'll notice a tab that says *Bundle & Save*. If you want to also purchase expansions packs create by the Sims developers throughtout the year deals occur that help you save money, so check often if there is an expansion pack you have your eye on.
  - After purchasing the game should be added to your library, so migrate back to your Library and find *the Sims 4*
  - Click on the game again and you’ll see Download, click on it.
   ![Figure 3](https://github.com/user-attachments/assets/fa8ec17e-65ed-442d-854c-6d058d3efcb4)
+*Figure 3*  
  - The game should begin to download which you can see in the bottom left corner of the screen, my game is currently updating so it says updating rather than downloading as shown in Figure 3. Onces it finished the game should automatically install onto your PC.
  - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the Play button to start the game. 
 
@@ -41,20 +44,28 @@ To begin you'll need to have the *The Sims 4* dowloaded on your PC, personal com
 ---
 # Where to finds CC and Mods
 
-There are multiple places you can find CC or Mods, but you must research and download at your own risk. Certain websites can be unsafe and files might not be what they appear to be. Common places many users check are websites like [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) and [ModTheSims](<https://modthesims.info/>). Other options are social media platforms like Tumblr or Pinterest, where the creators themselves will post their creations. 
+There are multiple places you can find CC or Mods for your game, but make sure you research the different places you can find CC and Mods and undertand the possible risk you take when downloading from places you don't do your reasearch on. Certain websites can be unsafe and files might not be what they appear to be. Not only putting your game at risk but your computer's securtiy. 
+Luckily there are some common places known by many users where you an share and get cc from like [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) and [ModTheSims](<https://modthesims.info/>). Other options are social media platforms like Tumblr or Pinterest, where the creators themselves will post their creations, but again it's important to insure that the independent creators are trustworthy. 
 
 ---
 # Downloading your CC and Mods
 
-When on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blockers extensions on your browser can help protect yourself when search online. 
+Like iterated in, ['Where to finds CC and Mods'](#Wher-to-finds-CC-and-Mods), when on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blockers extensions on your browser can help protect yourself when search online. 
 
-![*Figure 1*: Home page for The Sims Resource](https://github.com/user-attachments/assets/53827684-8e39-47d4-b738-6ac0521199f1)
-![*Figure 2*: Close up of the link in Figure 1](https://github.com/user-attachments/assets/2b90e7dd-40c9-4fe7-9b9a-976212b54be3)
+![Figure 1](https://github.com/user-attachments/assets/b0d087bd-3609-4520-85df-42fe1b7cb7ca)
+*Figure 1*  
+- Typically most websites provide easy and simple way to navigate downloading your desired CC, like the purple *Download* button in *Figure 1*.
 
-**Tip!** Oftentimes when you are about to click a link, in the bottom left of your browser you’ll see what exactly the link is. In *Figure 1* I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner you’ll see the URL, which *Figure 2* provides a close up of.
+![Figure 2](https://github.com/user-attachments/assets/53827684-8e39-47d4-b738-6ac0521199f1)  
+*Figure 2*  
+![Figure 3](https://github.com/user-attachments/assets/2b90e7dd-40c9-4fe7-9b9a-976212b54be3)  
+*Firgure 3*  
+- **Tip!** Oftentimes when you are about to click a link, in the bottom left of your browser you’ll see what exactly the link is. In *Figure 2* I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner you’ll see the URL, which *Figure 3* provides a close up of.
+
 
 ---
 # How to install your CC and Mods 
+Once you've dowloaded 
 **Extracting files**
 After downloading your file, you’ll possibly need to extract the file. 
  1. Navigate to File Explorer on Windows and Finder on MacOS. Once there, find the ‘Download’ section and click on it.
@@ -68,6 +79,7 @@ After downloading your file, you’ll possibly need to extract the file.
 **How do I access the EA App?**   
 - To access the EA app, you first have to download it from the website, which can be found on the [EA wbsite]<https://www.ea.com/ea-app#downloads>.
 ![Figure 1](https://github.com/user-attachments/assets/5f044c2d-007a-4231-aeef-22abc05d544b)
+Figure 1  
 - After the software downloads, open the app. You will be greeted with a *Sign in to your EA Account* screen, as seen in *Figure 1*. Enter your credentials to access your account and if you need to set one up click *Create Account*
 - 
 **How do I extract my files after downloading them?**
