@@ -21,7 +21,7 @@ One aspect of *The Sims 4* users enjoy is the ability to modify the game using s
 
 ---
 # System Requirements and Installation
-To begin you'll need to have the *The Sims 4* dowloaded on your PC, personal computer. This guide will provide help for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the EA app to download the software. 
+To begin you'll need to have the *The Sims 4* dowloaded on your PC, personal computer. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the EA app to download the software. 
  - First open the EA app, if you haven’t downloaded the app or created you account, check [here](#FAQ) in the FAQ for quidance on how.
 ![Figure 1](https://github.com/user-attachments/assets/e72df173-c297-46eb-89f9-0c3ebfcb380d)
 *Figure 1* 
