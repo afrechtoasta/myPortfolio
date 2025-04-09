@@ -133,8 +133,6 @@ Often when CC and Mods are created they are created to be compatible with the la
 
 **Mods (Modifications)**- alter the game's mechanics and how the game itself functions. 
 
-**Cheats**- special codes users can input that allow them to alter various things about the game, like money, relationships and skills.
-
 ---
 # Resources
 
