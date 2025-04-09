@@ -20,12 +20,22 @@ One aspect of the Sims 4 users enjoy is the ability to modify the game using som
 
 ---
 # System Requirements and Installation
+This guide will focus on the installation of modifications on Windows and MacOS PCs (Personal Computers) and we will use the EA app to download Sims 4. 
+ 1. Open the EA app, if you haven’t downloaded the app or created you account, check here in the FAQ. 
+ 2. At the top in the Search bar, type The Sims 4
+
 ---
 # In Game Modifications
 ---
 # Where to finds CC and Mods
+
+There are multiple places you can find CC or Mods, but you must research and download at your own risk. Certain websites can be unsafe and files might not be what they appear to be. Common places many users check are websites like The Sims Resource (TSR) (<https://www.thesimsresource.com/>) and ModTheSims (<https://modthesims.info/>). Other options are social media platforms like Tumblr or Pinterest, where the creators themselves will post their creations. 
+
 ---
 # Downloading your CC and Mods
+When on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blockers extensions on your browser can help protect yourself when search online. 
+
+![Figure 1: Home page for The Sims Resource]()
 ---
 # How to install your CC and Mods 
 --- 
