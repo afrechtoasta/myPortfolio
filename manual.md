@@ -67,7 +67,7 @@ After downloading your file, you’ll possibly need to extract the file.
 # FAQ
 **How do I access the EA App?**   
 - To access the EA app, you first have to download it from the website, which can be found on the [EA wbsite]<https://www.ea.com/ea-app#downloads>.
- ![Figure 1](https://github.com/user-attachments/assets/5f044c2d-007a-4231-aeef-22abc05d544b)
+![Figure 1](https://github.com/user-attachments/assets/5f044c2d-007a-4231-aeef-22abc05d544b)
 - After the software downloads, open the app. You will be greeted with a *Sign in to your EA Account* screen, as seen in *Figure 1*. Enter your credentials to access your account and if you need to set one up click *Create Account*
 - 
 **How do I extract my files after downloading them?**
@@ -95,7 +95,9 @@ For these types of files you’ll need to download a software that will allow yo
 
 ---
 # Resources
+
 <https://www.britannica.com/topic/The-Sims> 
+
 ---
 AI Statment: Grammarly and ChatGPT was used to enhance my assignment
 
