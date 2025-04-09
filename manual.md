@@ -3,14 +3,14 @@
 # The Sims 4 Modification Guide on a PC
 ---
 # Table of Contents 
-1.[Introduction](#What-is-the-Sims-4-?)
-2.[System Requirements and Installation](#System-Requirements-and-Installation)
-3.[In Game Modifications](#In-Game-Modifications)
-4.[Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
-5.[Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
-6.[How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
-7.[FAQ](#FAQ)
-8.[Glossary](#Glossary)
+1. [Introduction](#What-is-the-Sims-4-?) 
+2. [System Requirements and Installation](#System-Requirements-and-Installation) 
+3. [In Game Modifications](#In-Game-Modifications)
+4. [Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
+5. [Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
+6. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
+7. [FAQ](#FAQ)
+8. [Glossary](#Glossary)
 
 ---
 # What is the Sims 4?
