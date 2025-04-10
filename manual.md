@@ -144,7 +144,7 @@ Often when CC and Mods are created they are created to be compatible with the la
 
 --- 
 
-#Resources
+# Resources
 
 <https://www.britannica.com/topic/The-Sims> 
 
