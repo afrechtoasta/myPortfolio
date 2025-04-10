@@ -135,14 +135,16 @@ Sometimes after adding CC or Mods into your game, the game doesn't work. The is 
 ***I’ve updated my game and now my CC and Mods are not working?***  
 Often when CC and Mods are created they are created to be compatible with the latest version of the game at the time. As *The Sims 4* updates, the CC/Mods need to be updated too. Remove the current version of the CC/Mods not working from your game and find the updated version compatible with the updated game.
 
---- 
+---  
+
 # Glossary
 **Custom Content (CC)**- created content that alters the appearance and functionality of a game in mostly aesthetic ways. Examples include clothing, accessories, makeup, furniture, and decor.
 
 **Mods (Modifications)**- alter the game's mechanics and how the game itself functions. 
 
----
-# Resources
+--- 
+
+#Resources
 
 <https://www.britannica.com/topic/The-Sims> 
 
