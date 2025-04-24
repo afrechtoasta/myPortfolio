@@ -19,8 +19,13 @@
    4. [Organizing CC, *Tip!*](#4-Tip)
 6. [Checking to make sure CC and Mods are working](#Checking-t-make-sure-CC-and-Mods-are-working)
 7. [FAQ](#FAQ)
+   1. [How do I access the EA App?](#1-how-do-i-access-the-ea-app)
+   2. [How do I extract my files after downloading them?](#2-how-do-i-extract-my-files-after-downloading-them)
+   3. [I’ve installed some CC/Mods and now my game is not working?](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working)
+   4. [I’ve updated my game and now my CC and Mods are not working?](#4-ive-updated-my-game-and-now-my-cc-and-mods-are-not-working)
 8. [Glossary](#Glossary)
-9. [Resources](#Resources)
+9. [Work Cited](#Work-Cited)
+10. [AI Statment](#AI-Statement)
 
 --- 
 # What is The Sims 4? 
@@ -33,7 +38,7 @@ One aspect of *The Sims 4* users enjoy is the ability to modify the game using s
 To begin, you'll need to have the *The Sims 4* downloaded on your PC, personal computer. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the [EA app](#3-ea) to download the software to give support to the creators of *The Sims* franchise. 
 
 ## 1. Installing Sims 4 using the EA app:
-First, open the EA app. If you haven’t downloaded the app or created your account, check [here](#FAQ) in the FAQ for guidance on how.
+First, open the EA app. If you haven’t downloaded the app or created your account, check [here](#1-how-do-i-access-the-ea-app) in the FAQ for guidance on how.
 
 ![Figure 1](https://github.com/user-attachments/assets/e72df173-c297-46eb-89f9-0c3ebfcb380d)
 *Figure 1* 
@@ -185,12 +190,14 @@ EA is a digital interactive entertainment company, who focus on creating games a
 ## 4. **Steam** - 
 Steam is a digital content distribution platform first created in in 2003. It allows creators and publishers to produce content and allows them to interact with consumers. Over the years the community has grown into millions of players interacting with each other, sharing thoughts and ideas.   
 
-# Resources
-
+# Work Cited
 <https://www.britannica.com/topic/The-Sims> 
 <https://www.valvesoftware.com/en/about>
 <https://www.ea.com/about>
 
 ---
-AI Statement: Grammarly was used to Spellcheck and ChatGPT was used to enhance my assignment
+# AI Statement
+
+- Grammarly was used to Spellcheck my work
+- ChatGPT was used to enhance my assignment, helping with outlining and organization.
 
