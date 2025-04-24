@@ -106,7 +106,7 @@ Once you've downloaded your CC its time to install it into your game. First, we 
   - Find the file you downloaded and click on it to highlight it.
   - You’ll notice that each file has information about it broken into columns, like Name, Size, Date Added or Date Modified. We are looking at the column titled either Type or Kind. So focusing on your highlighted file find the Type and Kind for the file
   - If you see .package, .ts4script, or .txt it won’t have to be extracted, so you can move to the next section.
-  - If you see .zip, .rar, or .7z, it’ll have to be extracted. Which can be found [here](#FAQ) in the FAQ section.
+  - If you see .zip, .rar, or .7z, it’ll have to be extracted. Which can be found [here](#2-how-do-i-extract-my-files-after-downloading-them) in the FAQ section.
    - Once the file has been extracted it's time to place it into the game, select the file and press either Command + C or Ctrl + X
 
 ## 2. Installing CC Into Game For *Windows*:  
@@ -140,7 +140,8 @@ Once you've downloaded your CC its time to install it into your game. First, we 
 - A pop up will inform you to use CC and Mods at your own risk, select the checkmark for okay.
 - In the bottom right corner click *Apply Changes* to save any changes made while in the *Menu*
 - Exit out and back on the *Menu* page select *Exit Game*
-Now when you restart you game you should be able to access your cc or mods. If you aren't able to access them in the game check the FAQ [here](#FAQ).
+
+Now when you restart you game you should be able to access your cc or mods, as you can see the dress I dowloaded is in the game. If you aren't able to access them in the game check the FAQ [here](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working).
 
 --- 
 # FAQ
