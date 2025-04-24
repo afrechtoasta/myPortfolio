@@ -191,8 +191,10 @@ EA is a digital interactive entertainment company, who focus on creating games a
 Steam is a digital content distribution platform first created in in 2003. It allows creators and publishers to produce content and allows them to interact with consumers. Over the years the community has grown into millions of players interacting with each other, sharing thoughts and ideas.   
 
 # Work Cited
-<https://www.britannica.com/topic/The-Sims> 
-<https://www.valvesoftware.com/en/about>
+<https://www.britannica.com/topic/The-Sims>    
+
+<https://www.valvesoftware.com/en/about>   
+
 <https://www.ea.com/about>
 
 ---
