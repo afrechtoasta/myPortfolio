@@ -4,25 +4,31 @@
 ---
 # Table of Contents 
 1. [Introduction](#What-is-the-Sims-4-?) 
-2. [System Requirements and Installation](#System-Requirements-and-Installation) 
-3. [Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
-4. [Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
-5. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
-6. [Checking to make sure CC and Mods are working](#Checking-t-make-sure-CC-and-Mods-are-working)
-7. [FAQ](#FAQ)
-8. [Glossary](#Glossary)
-9. [Resources](#Resources)
+2. [System Requirements and Installation](#System-Requirements-and-Installation)
+   1. [Installing using the EA app](#1-installing-sims-4-using-the-ea-app)
+   2. [Other sources for installing the Sims 4](#installing-sims-4-using-steam)
+4. [Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
+   1. Safety When Searching
+   2. Resouces
+6. [Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
+7. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
+8. [Checking to make sure CC and Mods are working](#Checking-t-make-sure-CC-and-Mods-are-working)
+9. [FAQ](#FAQ)
+10. [Glossary](#Glossary)
+11. [Resources](#Resources)
 
 --- 
-# What is the Sims 4? 
-*The Sims 4* is a life-simulator game developed by Maxis and published by Electronic Arts. The game was originally released on September 2, 2014 for Windows and is the latest installment in the *SimsCity* franchise that first started on February 4, 2000 with the original game, *The Sims*. *The Sims 4*, like the previous versions of the game, allows players to create and control the lives of virtual people. Players can guide characters through everyday activities, personal aspirations, relationships, and more. Being the most recent version, *The Sims 4* offers enhanced graphics and mechanics compared to the predecessors allowing a better overall experience for users. Regular updates and releases of expansion packs allow new and exciting things to enhance the game. 
+# What is The Sims 4? 
+*The Sims 4* is a life-simulator game developed by Maxis and published by Electronic Arts. The game was originally released on September 2nd, 2014 for Windows and is the latest installment in the *SimsCity* franchise that first started on February 4th, 2000 with the original game, *The Sims*. *The Sims 4*, like the previous versions of the game, allows players to create and control the lives of virtual people. Players can guide characters through everyday activities, personal aspirations, relationships, and more. Being the most recent version, *The Sims 4* offers enhanced graphics and mechanics compared to the predecessors, allowing a better overall experience for users. Regular updates and releases of expansion packs allow new and exciting things to enhance the game. 
 
-One aspect of *The Sims 4* users enjoy is the ability to modify the game using something called [Custom Content (CC)](#Glossary) and [Mods](#Glossary). Customs Content and Mods can be found online and are usually created by other users to help enhance the game even more. Though it can be exciting and fun, it's important to do it properly to avoid messing up the game. So this manual acts as a guide on how to properly do it.
+One aspect of *The Sims 4* users enjoy is the ability to modify the game using something called [Custom Content (CC)](##1-custom-content-cc-) and [Mods](#2-mods-modifications). Custom content and Mods can be found online and are usually created by other users to help enhance the game even more. Though it can be exciting and fun, it's important to do it properly to avoid messing up the game. So this manual acts as a guide on how to properly do it.
 
 ---
 # System Requirements and Installation
-To begin you'll need to have the *The Sims 4* downloaded on your PC, personal computer. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the EA app to download the software. 
- - First open the EA app, if you haven’t downloaded the app or created you account, check [here](#FAQ) in the FAQ for guidance on how.
+To begin, you'll need to have the *The Sims 4* downloaded on your PC, personal computer. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the [EA app](#3-ea) to download the software to give support to the creators of *The Sims* franchise. 
+
+## 1. Installing Sims 4 using the EA app:
+First, open the EA app, if you haven’t downloaded the app or created you account, check [here](#FAQ) in the FAQ for guidance on how.
 ![Figure 1](https://github.com/user-attachments/assets/e72df173-c297-46eb-89f9-0c3ebfcb380d)
 *Figure 1* 
  - Once the app is open, to the left side you'll four labels *Home*, *Browse*, *Library*, *EA Play* as seen in Figure 1, click on *Library*
@@ -39,11 +45,14 @@ To begin you'll need to have the *The Sims 4* downloaded on your PC, personal co
  - The game should begin to download which you can see in the bottom left corner of the screen, my game is currently updating so it says updating rather than downloading as shown in Figure 3. Once it's finished the game should automatically install onto your PC.
  - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the *Play* button to start the game.
 
+## Installing Sims 4 using Steam:
+As mentioned before, there are multiple ways to download *The Sims 4*, if you don't want to download the game via the EA app, another popular option is through [Steam](#4-steam). Though is it a different platform the instructions to download the game are relatively the same 
+
 ---
 # Where to finds CC and Mods
 
-There are multiple places you can find CC or Mods for your game, but make sure you research the different places you can find CC and Mods and understand the possible risk you take when downloading from places you don't do your research on. Certain websites can be unsafe and files might not be what they appear to be. Not only putting your game at risk but your computer's security. 
-Luckily there are some common places known by many users where you can share and get cc from like [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) and [ModTheSims](<https://modthesims.info/>). Other options are social media platforms like Tumblr or Pinterest, where the creators themselves will post their creations, but again it's important to ensure that the independent creators are trustworthy. 
+There are multiple places you can find CC or Mods for your game, but make sure you research the different places you can find CC and Mods and understand the possible risk you take when downloading from places you don't do your research on. Certain websites can be unsafe and files might not be what they appear to be. Not only putting your game at risk but your computer's security. Luckily there are some common places known by many users where you can share and get cc from.
+like [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) and [ModTheSims](<https://modthesims.info/>). Other options are social media platforms like Tumblr or Pinterest, where the creators themselves will post their creations, but again it's important to ensure that the independent creators are trustworthy. 
 
 ---
 # Downloading your CC and Mods
@@ -138,15 +147,25 @@ Often when CC and Mods are created they are created to be compatible with the la
 ---  
 
 # Glossary
-**Custom Content (CC)**- created content that alters the appearance and functionality of a game in mostly aesthetic ways. Examples include clothing, accessories, makeup, furniture, and decor.
+### 1. **Custom Content (CC)**- 
+created content that alters the appearance and functionality of a game in mostly aesthetic ways. Examples include clothing, accessories, makeup, furniture, and decor.
 
-**Mods (Modifications)**- alter the game's mechanics and how the game itself functions. 
+### 2. **Mods (Modifications)**- 
+alter the game's mechanics and how the game itself functions. 
 
---- 
+### 3. **EA** -
+EA is a digital interactive entertainment company, who focus on creating games and experiences that provide storytelling and allow thier online communties to grow. Popular games include The Sims™, *Apex Legends™*, *EA SPORTS™ Madden NFL*, etc.
+
+
+### 4. **Steam** - 
+Steam is a digital content distribution platform first created in in 2003. It allows creators and publishers to produce content and allows them to interact with consumers. Over the years the community has grown into millions of player interacting with each other sharing thoughts and ideas.   
 
 # Resources
 
 <https://www.britannica.com/topic/The-Sims> 
+<https://www.valvesoftware.com/en/about>
+<https://www.ea.com/about>
+
 
 ---
 AI Statement: Grammarly was used to Spellcheck and ChatGPT was used to enhance my assignment
