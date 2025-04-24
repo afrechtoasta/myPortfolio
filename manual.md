@@ -134,14 +134,38 @@ Once you've downloaded your CC its time to install it into your game. First, we 
 # Checking to make sure CC and Mods are working  
 - Open the EA app, migrate to the Library, click on The Sims 4, and click the *Play* button to start the game.
 - Once the game loads and your on the home page, click the three dots in the top right corner
-- You will be presented with the *Menu*, find the *Game Options* option and click on it.
-- On the left-hand side find *Other* and click on it
-- Make sure the box next to *Script Mods Allowed* is enabled, this will allow your Mods and CC to work.
-- A pop up will inform you to use CC and Mods at your own risk, select the checkmark for okay.
-- In the bottom right corner click *Apply Changes* to save any changes made while in the *Menu*
-- Exit out and back on the *Menu* page select *Exit Game*
 
-Now when you restart you game you should be able to access your cc or mods, as you can see the dress I dowloaded is in the game. If you aren't able to access them in the game check the FAQ [here](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working).
+![Screenshot 2025-04-24 031919](https://github.com/user-attachments/assets/95ad0b93-b4ec-49fe-995e-077a44ba3479)   
+*Figure 1*
+
+- You will be presented with the *Menu*, find the *Game Options* option and click on it. Which you can see highlighted in *Figure 1*.
+
+![Screenshot 2025-04-24 032207](https://github.com/user-attachments/assets/74673e8f-01e3-4f14-9b21-990abd433900)   
+*Figure 2*
+
+- On the left-hand side find *Other* and click on it, as shown in *Figure 2*
+- Make sure a checkmark is present in the box next to the *FILL* and the box next to *Script Mods Allowed*, this will is enable your Mods and CC in the game.
+
+![Screenshot 2025-04-24 032229](https://github.com/user-attachments/assets/c877c753-52e9-4adc-a46b-cd11072a9fc4)
+*Figure 3*
+
+- A pop up will inform you to restart you game, since we've made some changes, hit *Ok*. As shown in *Figure 3*
+![Screenshot 2025-04-24 032245](https://github.com/user-attachments/assets/44df6fd4-0353-4474-b518-259627e416b5)
+*Figure 4*
+
+- Before you exit out! In the bottom right corner click *Apply Changes*, this saves all the changes we have made while in the *Menu*. If we don't hit *Apply Chnages*, our CC and Mods will still be disable when we restart the game.
+
+![Screenshot 2025-04-24 034135](https://github.com/user-attachments/assets/1ac80254-f875-4c96-8806-d29565bea5ba)   
+*Figure 5*
+
+- Now exit out and back on the *Menu* page select *Exit Game*, as shown in *Figure 5*
+
+![Screenshot 2025-04-24 033439](https://github.com/user-attachments/assets/a886408e-9a66-4a8b-9e1e-041a4afab0e1)   
+*Figure 6*
+
+Now when you restart your game you should be greeted with a list of all your mods, shown is *Figure 6*, which means you have properly enabled your cc or mods. As you can see the dress I just downloaded is in the game. Now you should be able to use your CC or mods in the game. If you don't see this meesage no worries, check to see if your changes were succesfuuly saved. If the weren't just repeat these steps. 
+
+If your game is not working, for example stuck on the loading page, check FAQ [here](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working).
 
 --- 
 # FAQ
