@@ -6,16 +6,17 @@
 1. [Introduction](#What-is-the-Sims-4-?) 
 2. [System Requirements and Installation](#System-Requirements-and-Installation)
    1. [Installing using the EA app](#1-installing-sims-4-using-the-ea-app)
-   2. [Other sources for installing the Sims 4](#installing-sims-4-using-steam)
-4. [Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
-   1. Safety When Searching
-   2. Resouces
-6. [Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
-7. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
-8. [Checking to make sure CC and Mods are working](#Checking-t-make-sure-CC-and-Mods-are-working)
-9. [FAQ](#FAQ)
-10. [Glossary](#Glossary)
-11. [Resources](#Resources)
+   2. [Other sources for installing the Sims 4](#2-installing-sims-4-using-steam)
+3. [Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
+   1. [Safety When Searching](#1-Safety-When-Searching)
+   2. [Popular CC Sources](#2-Popular-CC-Sources)
+4. [Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
+   1. [Navagating through websites, *Tip!*](#1-tips)
+5. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
+9. [Checking to make sure CC and Mods are working](#Checking-t-make-sure-CC-and-Mods-are-working)
+10. [FAQ](#FAQ)
+11. [Glossary](#Glossary)
+12. [Resources](#Resources)
 
 --- 
 # What is The Sims 4? 
@@ -28,7 +29,7 @@ One aspect of *The Sims 4* users enjoy is the ability to modify the game using s
 To begin, you'll need to have the *The Sims 4* downloaded on your PC, personal computer. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the [EA app](#3-ea) to download the software to give support to the creators of *The Sims* franchise. 
 
 ## 1. Installing Sims 4 using the EA app:
-First, open the EA app, if you haven’t downloaded the app or created you account, check [here](#FAQ) in the FAQ for guidance on how.
+First, open the EA app. If you haven’t downloaded the app or created your account, check [here](#FAQ) in the FAQ for guidance on how.
 ![Figure 1](https://github.com/user-attachments/assets/e72df173-c297-46eb-89f9-0c3ebfcb380d)
 *Figure 1* 
  - Once the app is open, to the left side you'll four labels *Home*, *Browse*, *Library*, *EA Play* as seen in Figure 1, click on *Library*
@@ -45,29 +46,36 @@ First, open the EA app, if you haven’t downloaded the app or created you accou
  - The game should begin to download which you can see in the bottom left corner of the screen, my game is currently updating so it says updating rather than downloading as shown in Figure 3. Once it's finished the game should automatically install onto your PC.
  - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the *Play* button to start the game.
 
-## Installing Sims 4 using Steam:
-As mentioned before, there are multiple ways to download *The Sims 4*, if you don't want to download the game via the EA app, another popular option is through [Steam](#4-steam). Though is it a different platform the instructions to download the game are relatively the same 
+## 2. Installing Sims 4 using Steam:
+As mentioned before, there are multiple ways to download *The Sims 4*, if you don't want to download the game via the EA app, another popular option is through [Steam](#4-steam). Though is it a different platform the instructions to download the game are relatively the same as if you were usuing the EA app. You'll first have to dowload the software, which can be found [here]<https://store.steampowered.com/about/> 
 
 ---
 # Where to finds CC and Mods
 
+## 1. Safety When Searching 
 There are multiple places you can find CC or Mods for your game, but make sure you research the different places you can find CC and Mods and understand the possible risk you take when downloading from places you don't do your research on. Certain websites can be unsafe and files might not be what they appear to be. Not only putting your game at risk but your computer's security. Luckily there are some common places known by many users where you can share and get cc from.
-like [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) and [ModTheSims](<https://modthesims.info/>). Other options are social media platforms like Tumblr or Pinterest, where the creators themselves will post their creations, but again it's important to ensure that the independent creators are trustworthy. 
+
+## 2. Popular CC Sources
+   1. [The Sims Resource (TSR)](<https://www.thesimsresource.com/>)
+   2. [ModTheSims](<https://modthesims.info/>)
+
+Other options are social media platforms like Tumblr or Pinterest, where the creators themselves will post their creations, but again it's important to ensure that the independent creators are trustworthy. 
 
 ---
 # Downloading your CC and Mods
 
-Like iterated in, ['Where to finds CC and Mods'](#Where-to-finds-CC-and-Mods), when on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blockers extensions on your browser can help protect yourself when searching online. 
+Like iterated in, [Safety When Searching](#1-Safety-When-Searching), when on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blockers extensions on your browser can help protect yourself when searching online. 
 
 ![Figure 1](https://github.com/user-attachments/assets/b0d087bd-3609-4520-85df-42fe1b7cb7ca)
 *Figure 1*  
 - Typically most websites provide easy and simple way to navigate downloading your desired CC, like the purple *Download* button in *Figure 1*.
 
+## 1. *Tip!*
 ![Figure 2](https://github.com/user-attachments/assets/53827684-8e39-47d4-b738-6ac0521199f1)  
 *Figure 2*  
 ![Figure 3](https://github.com/user-attachments/assets/2b90e7dd-40c9-4fe7-9b9a-976212b54be3)  
 *Figure 3*  
-- **Tip!** Oftentimes when you are about to click a link, in the bottom left of your browser you’ll see what exactly the link is. In *Figure 2* I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner you’ll see the URL, which *Figure 3* provides a close up of.
+Oftentimes when you are about to click a link, in the bottom left of your browser you’ll see what exactly the link is. In *Figure 2* I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner you’ll see the URL, which *Figure 3* provides a close up of.
 
 
 ---
@@ -148,17 +156,17 @@ Often when CC and Mods are created they are created to be compatible with the la
 
 # Glossary
 ### 1. **Custom Content (CC)**- 
-created content that alters the appearance and functionality of a game in mostly aesthetic ways. Examples include clothing, accessories, makeup, furniture, and decor.
+Created content that alters the appearance and functionality of a game in mostly aesthetic ways. Examples include clothing, accessories, makeup, furniture, and decor.
 
 ### 2. **Mods (Modifications)**- 
-alter the game's mechanics and how the game itself functions. 
+Alter the game's mechanics and how the game itself functions. 
 
 ### 3. **EA** -
-EA is a digital interactive entertainment company, who focus on creating games and experiences that provide storytelling and allow thier online communties to grow. Popular games include The Sims™, *Apex Legends™*, *EA SPORTS™ Madden NFL*, etc.
+EA is a digital interactive entertainment company, who focus on creating games and experiences that provide storytelling and allow their online communities to grow. Popular games include The Sims™, *Apex Legends™*, *EA SPORTS™ Madden NFL*, etc.
 
 
 ### 4. **Steam** - 
-Steam is a digital content distribution platform first created in in 2003. It allows creators and publishers to produce content and allows them to interact with consumers. Over the years the community has grown into millions of player interacting with each other sharing thoughts and ideas.   
+Steam is a digital content distribution platform first created in in 2003. It allows creators and publishers to produce content and allows them to interact with consumers. Over the years the community has grown into millions of players interacting with each other, sharing thoughts and ideas.   
 
 # Resources
 
