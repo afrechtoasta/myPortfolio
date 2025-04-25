@@ -1,6 +1,9 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md)
 
 # *The Sims 4* Modification Guide on a PC
+
+![sims 4](https://github.com/user-attachments/assets/92dd5336-2897-4ce9-a9b8-255b96bc35b9)
+
 ---
 # Table of Contents 
 1. [Introduction](#What-is-the-Sims-4-?) 
