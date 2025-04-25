@@ -1,5 +1,6 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md)
 
+
 # *The Sims 4* Modification Guide on a PC
 
 ![sims 4](https://github.com/user-attachments/assets/92dd5336-2897-4ce9-a9b8-255b96bc35b9)
@@ -10,7 +11,7 @@
 2. [System Requirements and Installation](#System-Requirements-and-Installation)
    1. [Installing using the EA app](#1-installing-sims-4-using-the-ea-app)
    2. [Bundle & Save, *Tip!*](#2-Tip)
-   3. [Alternative source for installing the Sims 4](#3-Alternative-to-the-EA-app-by-using-Steam-to-Download-The-Sims-4)
+   3. [Alternative source for installing *The Sims 4*](#3-Alternative-to-the-EA-app-by-using-Steam-to-Download-The-Sims-4)
 3. [Where to find CC and Mods](#Where-to-find-CC-and-Mods)
    1. [Safety When Searching](#1-Safety-When-Searching)
    2. [Popular CC Sources](#2-Popular-CC-Sources)
@@ -69,20 +70,20 @@ First, open up the EA app. If you haven’t downloaded the app or created your a
  - The game should begin to download, which you can see in the bottom left corner of the screen in *Figure 3*. [My game is currently updating, so it says updating rather than downloading.] When it's finished, the game should automatically install onto your PC
  - To start the game, open the EA app, migrate to the *Library*, click on *The Sims 4*. Click the *Play* button to start the game.
 
-## 3. Alternative to the EA app by using Steam to download *The Sims 4*:
-As mentioned before, there are multiple ways to download *The Sims 4*. If you don't want to download the game via the EA app, another popular option is through [Steam](#4-steam). Though it is a different platform, the instructions to download the 
-*The Sims 4* are relatively the same as if you were using the EA app to download the game. You will first have to download the software, which can be found [here]<https://store.steampowered.com/about/> 
+## 3. Alternative source for installing *The Sims 4*   
+There are multiple ways to download *The Sims 4*. If you are unable to download the game via the EA app, another option is through [Steam](#4-steam). Though it is a different platform, the instructions to download the 
+*The Sims 4* through Steam is relatively similar. The software can be found [here](<https://store.steampowered.com/about/>). 
 
 ---
 # Where to find CC and Mods
 
 ## 1. Safety When Searching 
-There are multiple places you can find CC or Mods for your game, but make sure you research the different places you can find CC and Mods and understand the possible risk you take when downloading from places you don't know well. Certain websites can be unsafe, and files might not be what they appear to be. Not only putting your game at risk, but your computer's security at risk. 
+There are multiple places you can find CC or Mods for your game. Common choices are websites or social media. When searching online you must understand the possible risk you take when downloading from places you don't know well. Certain websites can be unsafe, and files may not be as they appear. Not only putting your game at risk, but your computer's security at risk. 
 
-A few ways to stay safe:
+Safe Habits:
 
-   - Again, research the websites you are on. Find user reviews or community discussions about different websites. One great resource is the discussion board for *The Sims 4* on the [EA website](<https://forums.ea.com/category/the-sims-4-en>). There you can find all types of information, not just about CC and Mods. Another popular choice is Reddit, just go to [*The Sims 4* Mods](<https://www.reddit.com/r/TheSims4Mods/>) community there and search what you desire to know
-    - Avoid files that say *.exe*, which is an executable file. When you double-click on it, it informs your computer to run some type of program. In regards to *The Sims 4*, you don't need .exe files, so make sure to avoid them. If you accidentally download one, simply delete it, just make sure not to double-click during the deletion process. To know what type of files you should see, check the [types or kind of files section](#2-The-Type-or-Kind-of-File)
+   - Find user reviews or community discussions about different websites. A great resource is the discussion board for *The Sims 4* on the [EA website](<https://forums.ea.com/category/the-sims-4-en>). In the discussion board you can find all types of information, not just about CC and Mods. Another resource is [*The Sims 4* Mods community](<https://www.reddit.com/r/TheSims4Mods/>) on Reddit.
+   - Avoid files that say *.exe*, which is an executable file. When you double-click on it, it informs your computer to run some type of program. In regards to *The Sims 4*, you don't need .exe files, so make sure to avoid them. If you accidentally download one, simply delete it, just make sure not to double-click during the deletion process. To know what type of files you should see, check the [types or kind of files section](#2-The-Type-or-Kind-of-File)
 
 Luckily, there are some common places known by many users where you can share and get cc from.
 
@@ -245,4 +246,3 @@ Steam is a digital content distribution platform first created in 2003. It allow
 
 - Grammarly was used to spellcheck my work
 - ChatGPT was used to enhance my assignment, helping with outlining and organization.
-
