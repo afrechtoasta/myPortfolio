@@ -36,7 +36,7 @@
 # What is The Sims 4? 
 *The Sims 4* is a life-simulator game developed by Maxis and published by Electronic Arts. The game was originally released on September 2nd, 2014, for Windows and is the latest installment in the *SimsCity* franchise that first started on February 4th, 2000, with the original game, *The Sims*. *The Sims 4*, like the previous versions of the game, allows players to create and control the lives of virtual people. Players can guide characters through everyday activities, personal aspirations, relationships, and more. Being the most recent version, *The Sims 4* offers enhanced graphics and mechanics compared to the predecessors, allowing a better overall experience for users. Regular updates and releases of expansion packs allow new and exciting things to enhance the game. 
 
-One aspect of *The Sims 4* users enjoy is the ability to modify the game using [Custom Content (CC)](##1-custom-content-cc-) and [Mods](#2-mods-modifications). Custom content and Mods can be found online and are usually created by other users to help enhance the game. Though CC and Mods can be exciting and fun, it's important to understand how to properly use them to avoid messing up the game. This manual acts as a guide on how to use CC and Mods.
+One aspect of *The Sims 4* users enjoy is the ability to modify the game using [Custom Content (CC)](##1-custom-content-cc-) and [Mods (Modifications)](#2-mods-modifications). Custom content and Mods can be found online and are usually created by other users to help enhance the game. Though CC and Mods can be exciting and fun, it's important to understand how to properly use them to avoid messing up the game. This manual acts as a guide on how to use CC and Mods.
 
 ---
 # System Requirements and Installation
@@ -52,15 +52,15 @@ First, open up the EA app. If you haven’t downloaded the app or created your a
  - If you own *The Sims 4*, you should be able to locate it in your *Library*. If you don't see it in your *Library*, it means you still need to purchase it.
  - To purchase the game, click on the search bar above *Library*, as seen in *Figure 1*, and search *The Sims 4*.
  - Once you have clicked on the game, you will see the option to purchase *The Sims 4*.
- - After purchasing the game, it will be added to your *Library*, so migrate back to your *Library* and find *The Sims 4*.
- - Click on the game again, and you’ll see the option *Download*, click on it.
+ - After purchasing the game, it will be added to your *Library*, migrate back to your *Library* and find *The Sims 4*.
+ - Click on the game, and then click on the option to *Download*.
 
 ## 2. **Tip!**   
 
 ![Figure 2](https://github.com/user-attachments/assets/9590af9f-f09c-4f09-b145-9208d723814c)
 *Figure 2*  
 
- - You'll notice a tab that says *Bundle & Save*. Say you have been eyeing expansion packs to change your gameplay. Throughout the year, deals will occur that can help you save money by bundling up the number of expansion packs which, in total, will cost you less but give you more. So be sure to check often to see if there is a sale on an expansion pack you want.
+ - You'll notice a tab that says *Bundle & Save*. Say you have been eyeing expansion packs to change your gameplay. Throughout the year, deals will occur that ultimately save money by bundling expansion packs together. Check often to see if there is a sale on an expansion packs.
 
 
 ![Figure 3](https://github.com/user-attachments/assets/fa8ec17e-65ed-442d-854c-6d058d3efcb4)   
@@ -98,19 +98,19 @@ Some other options are social media platforms like [Tumblr](<https://www.tumblr.
 As iterated in [Safety When Searching](#1-Safety-When-Searching), when on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blocker extensions on your browser can help protect yourself when searching online. 
 
 ![Figure 1](https://github.com/user-attachments/assets/b0d087bd-3609-4520-85df-42fe1b7cb7ca)
-*Figure 1*  
+*Figure 4*  
 
-- Typically, most websites provide an easy and simple way to navigate to downloading your desired CC, like the purple *Download* button in *Figure 1*.
+- Typically, most websites provide an easy and simple way to navigate to downloading your desired CC, like the purple *Download* button in *Figure 4*.
 
 ## 1. *Tip!*
 
 ![Figure 2](https://github.com/user-attachments/assets/53827684-8e39-47d4-b738-6ac0521199f1)  
-*Figure 2*  
+*Figure 5*  
 
 ![Figure 3](https://github.com/user-attachments/assets/2b90e7dd-40c9-4fe7-9b9a-976212b54be3)  
-*Figure 3*  
+*Figure 6*  
 
-Oftentimes, when you are about to click a link, in the bottom left of your browser, you’ll see what exactly the link is. In *Figure 2*, I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner, you’ll see the URL, which *Figure 3* provides a close-up of.
+Oftentimes, when you are about to click a link, in the bottom left of your browser, you’ll see what exactly the link is. In *Figure 5*, I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner, you’ll see the URL, which *Figure 6* provides a close-up of.
 
 
 ---
@@ -154,34 +154,34 @@ Once you've downloaded your CC its time to install it into your game. First, we 
 - Once the game loads and you are on the home page, click the three dots in the top right corner
 
 ![Screenshot 2025-04-24 031919](https://github.com/user-attachments/assets/95ad0b93-b4ec-49fe-995e-077a44ba3479)   
-*Figure 1*
+*Figure 7*
 
-- You will be presented with the *Menu*, find the *Game Options* option and click on it. Which you can see highlighted in *Figure 1*.
+- You will be presented with the *Menu*, find the *Game Options* option and click on it. Which you can see highlighted in *Figure 7*.
 
 ![Screenshot 2025-04-24 032207](https://github.com/user-attachments/assets/74673e8f-01e3-4f14-9b21-990abd433900)   
-*Figure 2*
+*Figure 8*
 
-- On the left-hand side find *Other* and click on it, as shown in *Figure 2*
+- On the left-hand side find *Other* and click on it, as shown in *Figure 8*
 - Make sure a checkmark is present in the box next to the *FILL* and the box next to *Script Mods Allowed*, this will enable your Mods and CC in the game.
 
 ![Screenshot 2025-04-24 032229](https://github.com/user-attachments/assets/c877c753-52e9-4adc-a46b-cd11072a9fc4)
-*Figure 3*
+*Figure 9*
 
-- A pop-up will inform you to restart your game, since we've made some changes, hit *Ok*. As shown in *Figure 3*
+- A pop-up will inform you to restart your game, since we've made some changes, hit *Ok*. As shown in *Figure 9*
 ![Screenshot 2025-04-24 032245](https://github.com/user-attachments/assets/44df6fd4-0353-4474-b518-259627e416b5)
-*Figure 4*
+*Figure 10*
 
 - Before you exit! In the bottom right corner, click *Apply Changes*, which saves all the changes we have made while in the *Menu*. If we don't hit *Apply Changes*, our CC and Mods will still be disabled when we restart the game.
 
 ![Screenshot 2025-04-24 034135](https://github.com/user-attachments/assets/1ac80254-f875-4c96-8806-d29565bea5ba)   
-*Figure 5*
+*Figure 11*
 
-- Now exit out and back on the *Menu* page select *Exit Game*, as shown in *Figure 5*
+- Now exit out and back on the *Menu* page select *Exit Game*, as shown in *Figure 11*
 
 ![Screenshot 2025-04-24 033439](https://github.com/user-attachments/assets/a886408e-9a66-4a8b-9e1e-041a4afab0e1)   
-*Figure 6*
+*Figure 12*
 
-Now when you restart your game, you should be greeted with a list of all your mods, as shown in *Figure 6*, which means you have properly enabled your cc or mods. As you can see, the dress I just downloaded is in the game. Now you should be able to use your CC or mods in the game. If you don't see this message no worries, check to see if your changes were successfully saved. If they weren't just repeat these steps. 
+Now when you restart your game, you should be greeted with a list of all your mods, as shown in *Figure 12*, which means you have properly enabled your cc or mods. As you can see, the dress I just downloaded is in the game. Now you should be able to use your CC or mods in the game. If you don't see this message no worries, check to see if your changes were successfully saved. If they weren't just repeat these steps. 
 
 If your game is not working, for example, stuck on the loading page, check FAQ [here](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working).
 
@@ -191,9 +191,9 @@ If your game is not working, for example, stuck on the loading page, check FAQ [
 - To access the EA app, you first have to download it from the website, which can be found on the [EA website](<https://www.ea.com/ea-app#downloads>)
 
 ![Figure 1](https://github.com/user-attachments/assets/5f044c2d-007a-4231-aeef-22abc05d544b)
-Figure 1
+*Figure 13*
 
-- After the software downloads, open the app. You will be greeted with a *Sign in to your EA Account* screen, as seen in *Figure 1*. Enter your credentials to access your account and if you need to set one up click *Create Account*
+- After the software downloads, open the app. You will be greeted with a *Sign in to your EA Account* screen, as seen in *Figure 13*. Enter your credentials to access your account and if you need to set one up click *Create Account*
 
 ## 2. ***How do I extract my files after downloading them?***
 
