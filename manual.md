@@ -78,7 +78,7 @@ There are multiple places you can find CC or Mods for your game, but make sure y
 
 A few ways to stay safe:
 
-   - Again, research the websites you are on. Find user reviews or community discussions about different websites. One great resource is the discussion board for *The Sims 4* on the [EA website]<https://forums.ea.com/category/the-sims-4-en>. There you can find all types of information, not just about CC and Mods. Another popular choice is Reddit, just go to [*The Sims 4* Mods]<https://www.reddit.com/r/TheSims4Mods/> community there and search what you desire to know
+   - Again, research the websites you are on. Find user reviews or community discussions about different websites. One great resource is the discussion board for *The Sims 4* on the [EA website](<https://forums.ea.com/category/the-sims-4-en>). There you can find all types of information, not just about CC and Mods. Another popular choice is Reddit, just go to [*The Sims 4* Mods](<https://www.reddit.com/r/TheSims4Mods/>) community there and search what you desire to know
     - Avoid files that say *.exe*, which is an executable file. When you double-click on it, it informs your computer to run some type of program. In regards to *The Sims 4*, you don't need .exe files, so make sure to avoid them. If you accidentally download one, simply delete it, just make sure not to double-click during the deletion process. To know what type of files you should see, check the [types or kind of files section](#2-The-Type-or-Kind-of-File)
 
 Luckily, there are some common places known by many users where you can share and get cc from.
@@ -87,7 +87,7 @@ Luckily, there are some common places known by many users where you can share an
    1. [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) is a well-known place that acts as a platform for other players who have created CC to share it with others. You can find CC for *The Sims 1, 2, 3, and 4* on the page
    2. [ModTheSims](<https://modthesims.info/>) is another popular place to find CC and just like TSR it provides CC for *The Sims 1, 2, 3, and 4*.
 
-Some other options are social media platforms like [Tumblr]<https://www.tumblr.com/> or [Pinterest]<https://www.pinterest.com/>, where the creators themselves will post their creations, but again it's important to ensure that the independent creators are trustworthy; Make sure to do your research. 
+Some other options are social media platforms like [Tumblr](<https://www.tumblr.com/>) or [Pinterest](<https://www.pinterest.com/>), where the creators themselves will post their creations, but again, it's important to ensure that the independent creators are trustworthy; Make sure to do your research. 
 
 ---
 # Downloading your CC and Mods
@@ -107,7 +107,7 @@ As iterated in [Safety When Searching](#1-Safety-When-Searching), when on websit
 ![Figure 3](https://github.com/user-attachments/assets/2b90e7dd-40c9-4fe7-9b9a-976212b54be3)  
 *Figure 3*  
 
-Oftentimes when you are about to click a link, in the bottom left of your browser, you’ll see what exactly the link is. In *Figure 2* I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner you’ll see the URL, which *Figure 3* provides a close up of.
+Oftentimes, when you are about to click a link, in the bottom left of your browser, you’ll see what exactly the link is. In *Figure 2*, I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner, you’ll see the URL, which *Figure 3* provides a close-up of.
 
 
 ---
@@ -117,10 +117,10 @@ Once you've downloaded your CC its time to install it into your game. First, we 
 ## 1. Extracting Files 
   - Navigate to File Explorer on Windows and Finder on MacOS. Once there, find the ‘Download’ section and click on it.
   - Find the file you downloaded and click on it to highlight it.
-  - You’ll notice that each file has information about it broken into columns, like Name, Size, Date Added or Date Modified. We are looking at the column titled either Type or Kind. So focusing on your highlighted file find
+  - You’ll notice that each file has information about it broken into columns, like Name, Size, Date Added, or Date Modified. We are looking at the column titled either Type or Kind. So, focusing on your highlighted file find
 
 ## 2. The Type or Kind of File   
-  - If you see .package, .ts4script, or .txt it won’t have to be extracted, so you can move to the next section.
+  - If you see .package, .ts4script, or .txt, it won’t have to be extracted, so you can move to the next section.
   - If you see .zip, .rar, or .7z, it’ll have to be extracted. Which can be found [here](#2-how-do-i-extract-my-files-after-downloading-them) in the FAQ section.
   - Once the file has been extracted it's time to place it into the game, select the file and press either Command + C or Ctrl + X
 
@@ -128,27 +128,27 @@ Once you've downloaded your CC its time to install it into your game. First, we 
    - Open up *File Explorer*
    - On the left hand you'll see *This PC*, click on it, then you'll locate *Windows(C:)* and double click on that.
    - Find the folder titled *Users*, double-click on that
-   - Now find the folder titled after your username, double-click on that
+   - Now find the folder titled after your username, and double-click on that
    - Find the folder titled *Documents*, double-click on that
    - Click on the folder titled *Electronic Arts*, double-click on that
    - Finally find the folder titled *Mods*, double click on that
-   - Once there paste the document in the folder by hitting ctrl + v
+   - Once there, paste the document in the folder by hitting Ctrl + V
 
 ## 4. Installing CC Into Game For *MacOS*:
-   - Open up *Finder*t
+   - Open up *Finder*
    - Find the folder titled *Documents*, double-click on that
    - Click on the folder titled *Electronic Arts*, double-click on that
    - Finally find the folder titled *Mods*, double click on that
-   - Once there paste the document in the folder by hitting command + v
+   - Once there, paste the document in the folder by hitting command + v
 
 
 ## 5. **Tip!**
-   - Create folders within your game to help organize your CC and Mods, it'll help if you're looking for a certain CC file, especially if it's broken and you need to remove it. 
+   - Create folders within your game to help organize your CC and Mods. It'll help if you're looking for a certain CC file, especially if it's broken and you need to remove it. 
 
 ---
 # Checking to make sure CC and Mods are working  
 - Open the EA app, migrate to the Library, click on The Sims 4, and click the *Play* button to start the game.
-- Once the game loads and your on the home page, click the three dots in the top right corner
+- Once the game loads and you are on the home page, click the three dots in the top right corner
 
 ![Screenshot 2025-04-24 031919](https://github.com/user-attachments/assets/95ad0b93-b4ec-49fe-995e-077a44ba3479)   
 *Figure 1*
@@ -159,16 +159,16 @@ Once you've downloaded your CC its time to install it into your game. First, we 
 *Figure 2*
 
 - On the left-hand side find *Other* and click on it, as shown in *Figure 2*
-- Make sure a checkmark is present in the box next to the *FILL* and the box next to *Script Mods Allowed*, this will is enable your Mods and CC in the game.
+- Make sure a checkmark is present in the box next to the *FILL* and the box next to *Script Mods Allowed*, this will enable your Mods and CC in the game.
 
 ![Screenshot 2025-04-24 032229](https://github.com/user-attachments/assets/c877c753-52e9-4adc-a46b-cd11072a9fc4)
 *Figure 3*
 
-- A pop up will inform you to restart you game, since we've made some changes, hit *Ok*. As shown in *Figure 3*
+- A pop-up will inform you to restart your game, since we've made some changes, hit *Ok*. As shown in *Figure 3*
 ![Screenshot 2025-04-24 032245](https://github.com/user-attachments/assets/44df6fd4-0353-4474-b518-259627e416b5)
 *Figure 4*
 
-- Before you exit out! In the bottom right corner click *Apply Changes*, this saves all the changes we have made while in the *Menu*. If we don't hit *Apply Chnages*, our CC and Mods will still be disable when we restart the game.
+- Before you exit! In the bottom right corner, click *Apply Changes*, which saves all the changes we have made while in the *Menu*. If we don't hit *Apply Changes*, our CC and Mods will still be disabled when we restart the game.
 
 ![Screenshot 2025-04-24 034135](https://github.com/user-attachments/assets/1ac80254-f875-4c96-8806-d29565bea5ba)   
 *Figure 5*
@@ -178,14 +178,14 @@ Once you've downloaded your CC its time to install it into your game. First, we 
 ![Screenshot 2025-04-24 033439](https://github.com/user-attachments/assets/a886408e-9a66-4a8b-9e1e-041a4afab0e1)   
 *Figure 6*
 
-Now when you restart your game you should be greeted with a list of all your mods, shown is *Figure 6*, which means you have properly enabled your cc or mods. As you can see the dress I just downloaded is in the game. Now you should be able to use your CC or mods in the game. If you don't see this meesage no worries, check to see if your changes were succesfuuly saved. If the weren't just repeat these steps. 
+Now when you restart your game, you should be greeted with a list of all your mods, as shown in *Figure 6*, which means you have properly enabled your cc or mods. As you can see, the dress I just downloaded is in the game. Now you should be able to use your CC or mods in the game. If you don't see this message no worries, check to see if your changes were successfully saved. If they weren't just repeat these steps. 
 
-If your game is not working, for example stuck on the loading page, check FAQ [here](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working).
+If your game is not working, for example, stuck on the loading page, check FAQ [here](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working).
 
 --- 
 # FAQ
 ## 1. ***How do I access the EA App?***   
-- To access the EA app, you first have to download it from the website, which can be found on the [EA website]<https://www.ea.com/ea-app#downloads>.
+- To access the EA app, you first have to download it from the website, which can be found on the [EA website](<https://www.ea.com/ea-app#downloads>)
 
 ![Figure 1](https://github.com/user-attachments/assets/5f044c2d-007a-4231-aeef-22abc05d544b)
 Figure 1
@@ -197,23 +197,23 @@ Figure 1
 Depending on the type of file, there are two different processes.
 
 *.zip files*:  
-For zip files both*Windows* and *MacOS* have built-in software that allows you to extract these types of files.
+For zip files, both *Windows* and *MacOS* have built-in software that allows you to extract these types of files.
 - For *MacOS*, locate your file in *Finder* and double-click on the file. It’ll automatically extract the file and create a new folder for it in the same location. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
-- For *Windows*, locate your file in *File explorer* and right-click on the file. You’ll see the option *Extract All*, click on that. A window will pop up asking you to choose the location for the extracted files, by default it extracts to the same folder as the .zip. Once you’ve decided the location click *Extract*. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
+- For *Windows*, locate your file in *File explorer* and right-click on the file. You’ll see the option *Extract All*, click on that. A window will pop up asking you to choose the location for the extracted files, by default, it extracts to the same folder as the .zip. Once you’ve decided the location, click *Extract*. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
 
 *For .RAR or .7z:*  
-For these types of files you’ll need to download a software that will allow you to extract the file, an example is [WinRAR](<https://www.win-rar.com/download.html?&L=0>)  or [The Unarchiver](<https://theunarchiver.com/>). 
-- For *MacOS* locate your file in Finder and right-click on the file. You’ll see the option Open With > The Unarchiver, click on that. The software will then extract the file and create a new folder containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
-- For *Windows* locate your file in File explorer and right-click on the file. You’ll see the option Extract to [folder name of file], click on that. The software will then extract the file and create a new folder, with the same name, containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. 
+For these types of files, you’ll need to download a software that will allow you to extract the file, an example is [WinRAR](<https://www.win-rar.com/download.html?&L=0>)  or [The Unarchiver](<https://theunarchiver.com/>). 
+- For *MacOS* locate your file in Finder and right-click on the file. You’ll see the option *Open With > The Unarchiver*, click on that. The software will then extract the file and create a new folder containing that content. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
+- For *Windows* locate your file in File Explorer and right-click on the file. You’ll see the option Extract to [folder name of file], click on that. The software will then extract the file and create a new folder, with the same name, containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. 
 
-## 3. ***I’ve installed some CC/Mods and now my game is not working?***  
+## 3. ***I’ve installed some CC/Mods, and now my game is not working?***  
 
-Sometimes after adding CC or Mods into your game, the game doesn't work. The is usually something wrong like compatibility issues, example you've downloaded CC for *The Sims 3* instead of *The Sims 4*, or the CC itself can be broken and cause your game not to work. Sadly, there is no easy way to figure out which file it is, which can be a pain if you have a lot off CC and Mods in your game. However, there is a method you can apply to help figure out which file it could be. 
+Sometimes, after adding CC or Mods into your game, the game doesn't work. The is usually something wrong like compatibility issues, for example you've downloaded CC for *The Sims 3* instead of *The Sims 4*, or the CC itself can be broken and cause your game not to work. Sadly, there is no easy way to figure out which file it is, which can be a pain if you have a lot off CC and Mods in your game. However, there is a method you can apply to help figure out which file it could be. 
  - Think back to the last time your game was working. Let us say, for example, that your game was working two days ago. Within the two days, think about how much CC you've downloaded. Again let's say you've only downloaded 3 files in the two day span, then it's probably one of those 3 files. Remove all three files and one by one add them back into the game, whichever one crashes the game is probably the cause. 
 
-## 4. ***I’ve updated my game and now my CC and Mods are not working?***  
+## 4. ***I’ve updated my game, and now my CC and Mods are not working?***  
 
-Often when CC and Mods are created they are created to be compatible with the latest version of the game at the time. As *The Sims 4* updates, the CC/Mods need to be updated too. Remove the current version of the CC/Mods not working from your game and find the updated version compatible with the updated game. Often if you look up the title of the CC you should be able to find the creator.
+Often when CC and Mods are create,d they are created to be compatible with the latest version of the game at the time. As *The Sims 4* updates, the CC/Mods need to be updated too. Remove the current version of the CC/Mods not working from your game and find the updated version compatible with the updated game. Often if you look up the title of the CC you should be able to find the creator.
 
 ---  
 
@@ -225,10 +225,10 @@ Created content that alters the appearance and functionality of a game in mostly
 Alter the game's mechanics and how the game itself functions. 
 
 ## 3. **EA** -
-EA is a digital interactive entertainment company, who focus on creating games and experiences that provide storytelling and allow their online communities to grow. Popular games include The Sims™, *Apex Legends™*, *EA SPORTS™ Madden NFL*, etc.
+EA is a digital interactive entertainment company, who focuses on creating games and experiences that provide storytelling and allow their online communities to grow. Popular games include The Sims™, *Apex Legends™*, *EA SPORTS™ Madden NFL*, etc.
 
 ## 4. **Steam** - 
-Steam is a digital content distribution platform first created in in 2003. It allows creators and publishers to produce content and allows them to interact with consumers. Over the years the community has grown into millions of players interacting with each other, sharing thoughts and ideas.   
+Steam is a digital content distribution platform first created in 2003. It allows creators and publishers to produce content and allows them to interact with consumers. Over the years, the community has grown into millions of players interacting with each other, sharing thoughts and ideas.   
 
 # Work Cited
 <https://www.britannica.com/topic/The-Sims>    
@@ -240,6 +240,6 @@ Steam is a digital content distribution platform first created in in 2003. It al
 ---
 # AI Statement
 
-- Grammarly was used to Spellcheck my work
+- Grammarly was used to spellcheck my work
 - ChatGPT was used to enhance my assignment, helping with outlining and organization.
 
