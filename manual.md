@@ -1,98 +1,103 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md)
 
-# The Sims 4 Modification Guide on a PC
+# *The Sims 4* Modification Guide on a PC
 ---
 # Table of Contents 
 1. [Introduction](#What-is-the-Sims-4-?) 
 2. [System Requirements and Installation](#System-Requirements-and-Installation)
    1. [Installing using the EA app](#1-installing-sims-4-using-the-ea-app)
-   2. [Other sources for installing the Sims 4](#2-installing-sims-4-using-steam)
-3. [Where to finds CC and Mods](#Where-to-finds-CC-and-Mods)
+   2. [Bundle & Save, *Tip!*](#2-Tip)
+   3. [Alternative source for installing the Sims 4](#3-Alternative-to-the-EA-app-by-using-Steam-to-Download-The-Sims-4)
+3. [Where to find CC and Mods](#Where-to-find-CC-and-Mods)
    1. [Safety When Searching](#1-Safety-When-Searching)
    2. [Popular CC Sources](#2-Popular-CC-Sources)
 4. [Downloading your CC and Mods](#Downloading-your-CC-and-Mods)
-   1. [Navagating through websites, *Tip!*](#1-tips)
+   1. [Navagating through websites, *Tip!*](#1-tip)
 5. [How to install your CC and Mods](#How-to-install-your-CC-and-Mods)
    1. [Extracting Files](#1-Extracting-Files)
    2. [The Type or Kind of File](#2-The-Type-or-Kind-of-File)  
-   3. [Installing CC Into Game For *Windows*](#3-Installing-CC-Into-Gmae-For-Windows)
-   4. [Installing CC Into Game For *MacOS*](#4-Installing-CC-Into-Gmae-For-MacOS)
+   3. [Installing CC Into Game For *Windows*](#3-Installing-CC-Into-Game-For-Windows)
+   4. [Installing CC Into Game For *MacOS*](#4-Installing-CC-Into-Game-For-MacOS)
    5. [Organizing CC, *Tip!*](#5-Tip)
 6. [Checking to make sure CC and Mods are working](#Checking-t-make-sure-CC-and-Mods-are-working)
 7. [FAQ](#FAQ)
    1. [How do I access the EA App?](#1-how-do-i-access-the-ea-app)
    2. [How do I extract my files after downloading them?](#2-how-do-i-extract-my-files-after-downloading-them)
-   3. [I’ve installed some CC/Mods and now my game is not working?](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working)
-   4. [I’ve updated my game and now my CC and Mods are not working?](#4-ive-updated-my-game-and-now-my-cc-and-mods-are-not-working)
+   3. [I’ve installed some CC/Mods, and now my game is not working?](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working)
+   4. [I’ve updated my game, and now my CC and Mods are not working?](#4-ive-updated-my-game-and-now-my-cc-and-mods-are-not-working)
 8. [Glossary](#Glossary)
 9. [Work Cited](#Work-Cited)
 10. [AI Statment](#AI-Statement)
 
 --- 
 # What is The Sims 4? 
-*The Sims 4* is a life-simulator game developed by Maxis and published by Electronic Arts. The game was originally released on September 2nd, 2014 for Windows and is the latest installment in the *SimsCity* franchise that first started on February 4th, 2000 with the original game, *The Sims*. *The Sims 4*, like the previous versions of the game, allows players to create and control the lives of virtual people. Players can guide characters through everyday activities, personal aspirations, relationships, and more. Being the most recent version, *The Sims 4* offers enhanced graphics and mechanics compared to the predecessors, allowing a better overall experience for users. Regular updates and releases of expansion packs allow new and exciting things to enhance the game. 
+*The Sims 4* is a life-simulator game developed by Maxis and published by Electronic Arts. The game was originally released on September 2nd, 2014, for Windows and is the latest installment in the *SimsCity* franchise that first started on February 4th, 2000, with the original game, *The Sims*. *The Sims 4*, like the previous versions of the game, allows players to create and control the lives of virtual people. Players can guide characters through everyday activities, personal aspirations, relationships, and more. Being the most recent version, *The Sims 4* offers enhanced graphics and mechanics compared to the predecessors, allowing a better overall experience for users. Regular updates and releases of expansion packs allow new and exciting things to enhance the game. 
 
 One aspect of *The Sims 4* users enjoy is the ability to modify the game using something called [Custom Content (CC)](##1-custom-content-cc-) and [Mods](#2-mods-modifications). Custom content and Mods can be found online and are usually created by other users to help enhance the game even more. Though it can be exciting and fun, it's important to do it properly to avoid messing up the game. So this manual acts as a guide on how to properly do it.
 
 ---
 # System Requirements and Installation
-To begin, you'll need to have the *The Sims 4* downloaded on your PC, personal computer. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide we will use the [EA app](#3-ea) to download the software to give support to the creators of *The Sims* franchise. 
+To begin, you will need to have *The Sims 4* downloaded on your personal computer, PC. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide, we will use the [EA app](#3-ea) to download the software to give support to the creators of *The Sims* franchise. 
 
 ## 1. Installing Sims 4 using the EA app:
-First, open the EA app. If you haven’t downloaded the app or created your account, check [here](#1-how-do-i-access-the-ea-app) in the FAQ for guidance on how.
+First, open up the EA app. If you haven’t downloaded the app or created your account, check [here](#1-how-do-i-access-the-ea-app) in the FAQ for guidance on how to do that.
 
 ![Figure 1](https://github.com/user-attachments/assets/e72df173-c297-46eb-89f9-0c3ebfcb380d)
 *Figure 1* 
 
- - Once the app is open, to the left side you'll four labels *Home*, *Browse*, *Library*, *EA Play* as seen in Figure 1, click on *Library*
- - If you own *The Sims 4* you should be able to locate it in your library game, if you don't see it in your library it means you still need to purchase it.
- - To purchase the game, click on the search bar above *Library*, as seen Figure 1, and search *The Sims 4*
- - Once you've clicked on the game you'll have the option to purchase or download the game.
+ - Once the app is open, on the left side you'll see four labels, *Home*, *Browse*, *Library*, *EA Play* as seen in Figure 1, click on *Library*
+ - If you own *The Sims 4*, you should be able to locate it in your library. If you don't see it in your library, it means you still need to purchase it, which is easy and quick to do
+ - To purchase the game, click on the search bar above *Library*, as seen in *Figure 1*, and search *The Sims 4*
+ - Once you have clicked on the game, you will see the option to purchase *The Sims 4*
+ - After purchasing the game, it should then be added to your *Library*, so migrate back to your *Library* and find *The Sims 4*
+ - Click on the game again, and you’ll see *Download*, click on it
+
+## 2. **Tip!**   
 
 ![Figure 2](https://github.com/user-attachments/assets/9590af9f-f09c-4f09-b145-9208d723814c)
 *Figure 2*  
 
- - **Tip!** You'll notice a tab that says *Bundle & Save*. If you want to also purchase expansions packs create by the Sims developers throughout the year deals occur that help you save money, so check often if there is an expansion pack you have your eye on.
- - After purchasing the game should be added to your library, so migrate back to your Library and find *the Sims 4*
- - Click on the game again and you’ll see Download, click on it.
+ - You'll notice a tab that says *Bundle & Save*. Let us say you have been eyeing expansion packs, created by the Sims developers, to change your gameplay. Throughout the year, deals will occur that can help you save money by bundling up the number of expansion packs that, in total, will cost you less. So be sure to check often to see if there is a sale on an expansion pack you want.
+
 
 ![Figure 3](https://github.com/user-attachments/assets/fa8ec17e-65ed-442d-854c-6d058d3efcb4)   
 *Figure 3*  
 
- - The game should begin to download which you can see in the bottom left corner of the screen, my game is currently updating so it says updating rather than downloading as shown in Figure 3. Once it's finished the game should automatically install onto your PC.
- - To start the game just open the EA app, migrate to the Library, click on The Sims 4, and click the *Play* button to start the game.
+ - The game should begin to download, which you can see in the bottom left corner of the screen in *Figure 3*. My game is currently updating, so it says updating rather than downloading. Once it's finished, the game should automatically install onto your PC
+ - To start the game, just open the EA app, migrate to the *Library*, click on *The Sims 4*, and click the *Play* button to start the game
 
-## 2. Installing Sims 4 using Steam:
-As mentioned before, there are multiple ways to download *The Sims 4*, if you don't want to download the game via the EA app, another popular option is through [Steam](#4-steam). Though is it a different platform the instructions to download the game are relatively the same as if you were usuing the EA app. You'll first have to dowload the software, which can be found [here]<https://store.steampowered.com/about/> 
+## 3. Alternative to the EA app by using Steam to download *The Sims 4*:
+As mentioned before, there are multiple ways to download *The Sims 4*. If you don't want to download the game via the EA app, another popular option is through [Steam](#4-steam). Though it is a different platform, the instructions to download the 
+*The Sims 4* are relatively the same as if you were using the EA app to download the game. You will first have to download the software, which can be found [here]<https://store.steampowered.com/about/> 
 
 ---
-# Where to finds CC and Mods
+# Where to find CC and Mods
 
 ## 1. Safety When Searching 
-There are multiple places you can find CC or Mods for your game, but make sure you research the different places you can find CC and Mods and understand the possible risk you take when downloading from places you don't know well. Certain websites can be unsafe and files might not be what they appear to be. Not only putting your game at risk but your computer's security at risk. 
+There are multiple places you can find CC or Mods for your game, but make sure you research the different places you can find CC and Mods and understand the possible risk you take when downloading from places you don't know well. Certain websites can be unsafe, and files might not be what they appear to be. Not only putting your game at risk, but your computer's security at risk. 
 
 A few ways to stay safe:
 
-   - Again, research the websites you are on. Find user reviews or community discussions about different websites. One great resource is the discussion board for *The Sims 4* on the [EA website]<https://forums.ea.com/category/the-sims-4-en>. There you can find all types of information, not just about CC and Mods. Another popular choice is Reddit, simply go to [*The Sims 4* Mods]<https://www.reddit.com/r/TheSims4Mods/> community and search what you desire to know.
-    - Avoid files that say *.exe*, this is something called an executeble file. When double-clicked on it informs your computer to run a program. In regards to *The Sims 4* you dont need those types of filed, so make sure to avoid them. If you accidently download one simply delete it. To know what of Files you should see check the [types or kind of files section](#2-The-Type-or-Kind-of-File)
+   - Again, research the websites you are on. Find user reviews or community discussions about different websites. One great resource is the discussion board for *The Sims 4* on the [EA website]<https://forums.ea.com/category/the-sims-4-en>. There you can find all types of information, not just about CC and Mods. Another popular choice is Reddit, just go to [*The Sims 4* Mods]<https://www.reddit.com/r/TheSims4Mods/> community there and search what you desire to know
+    - Avoid files that say *.exe*, which is an executable file. When you double-click on it, it informs your computer to run some type of program. In regards to *The Sims 4*, you don't need .exe files, so make sure to avoid them. If you accidentally download one, simply delete it, just make sure not to double-click during the deletion process. To know what type of files you should see, check the [types or kind of files section](#2-The-Type-or-Kind-of-File)
 
-Luckily there are some common places known by many users where you can share and get cc from.
+Luckily, there are some common places known by many users where you can share and get cc from.
 
 ## 2. Popular CC Sources
-   1. [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) is a well known place that acts as a platform for other players who have created CC to share it with other. You can find CC for *The Sims 1, 2, 3, and 4* on the page. 
-   2. [ModTheSims](<https://modthesims.info/>) another popular place to find CC and just TSR it provides CC for *The Sims 1, 2, 3, and 4*.
+   1. [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) is a well-known place that acts as a platform for other players who have created CC to share it with others. You can find CC for *The Sims 1, 2, 3, and 4* on the page
+   2. [ModTheSims](<https://modthesims.info/>) is another popular place to find CC and just like TSR it provides CC for *The Sims 1, 2, 3, and 4*.
 
-Some other options are social media platforms like [Tumblr]<https://www.tumblr.com/> or [Pinterest]<https://www.pinterest.com/>, where the creators themselves will post their creations, but again it's important to ensure that the independent creators are trustworthy, make sure to do your research. 
+Some other options are social media platforms like [Tumblr]<https://www.tumblr.com/> or [Pinterest]<https://www.pinterest.com/>, where the creators themselves will post their creations, but again it's important to ensure that the independent creators are trustworthy; Make sure to do your research. 
 
 ---
 # Downloading your CC and Mods
 
-Like iterated in, [Safety When Searching](#1-Safety-When-Searching), when on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blockers extensions on your browser can help protect yourself when searching online. 
+As iterated in [Safety When Searching](#1-Safety-When-Searching), when on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blocker extensions on your browser can help protect yourself when searching online. 
 
 ![Figure 1](https://github.com/user-attachments/assets/b0d087bd-3609-4520-85df-42fe1b7cb7ca)
 *Figure 1*  
 
-- Typically most websites provide easy and simple way to navigate downloading your desired CC, like the purple *Download* button in *Figure 1*.
+- Typically, most websites provide an easy and simple way to navigate to downloading your desired CC, like the purple *Download* button in *Figure 1*.
 
 ## 1. *Tip!*
 
@@ -102,7 +107,7 @@ Like iterated in, [Safety When Searching](#1-Safety-When-Searching), when on web
 ![Figure 3](https://github.com/user-attachments/assets/2b90e7dd-40c9-4fe7-9b9a-976212b54be3)  
 *Figure 3*  
 
-Oftentimes when you are about to click a link, in the bottom left of your browser you’ll see what exactly the link is. In *Figure 2* I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner you’ll see the URL, which *Figure 3* provides a close up of.
+Oftentimes when you are about to click a link, in the bottom left of your browser, you’ll see what exactly the link is. In *Figure 2* I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner you’ll see the URL, which *Figure 3* provides a close up of.
 
 
 ---
