@@ -192,12 +192,12 @@ If your game is not working and you are sure you have enabled CC and Mods, check
 --- 
 # FAQ
 ## 1. ***How do I access the EA App?***   
-- To access the EA app, you first have to download it from the website, which can be found on the [EA website](<https://www.ea.com/ea-app#downloads>)
+- To access the app, you first have to download it from the [EA website](<https://www.ea.com/ea-app#downloads>).
 
 ![Figure 1](https://github.com/user-attachments/assets/5f044c2d-007a-4231-aeef-22abc05d544b)
 *Figure 13*
 
-- After the software downloads, open the app. You will be greeted with a *Sign in to your EA Account* screen, as seen in *Figure 13*. Enter your credentials to access your account and if you need to set one up click *Create Account*
+- After the software downloads, open the app. You will be greeted with a *Sign in to your EA Account* screen, as seen in *Figure 13*. Enter your credentials to access your account. If you need to set one up, click *Create Account*.
 
 ## 2. ***How do I extract my files after downloading them?***
 
@@ -205,37 +205,43 @@ Depending on the type of file, there are two different processes.
 
 *.zip files*:  
 For zip files, both *Windows* and *MacOS* have built-in software that allows you to extract these types of files.
-- For *MacOS*, locate your file in *Finder* and double-click on the file. It’ll automatically extract the file and create a new folder for it in the same location. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
-- For *Windows*, locate your file in *File explorer* and right-click on the file. You’ll see the option *Extract All*, click on that. A window will pop up asking you to choose the location for the extracted files, by default, it extracts to the same folder as the .zip. Once you’ve decided the location, click *Extract*. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
+
+- For *MacOS*, locate your file in *Finder* and double-click on the file. It will automatically extract the file and create a new folder for it in the same location. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
+
+- For *Windows*, locate your file in *File explorer* and right-click on the file. You will see the option *Extract All*, click on that. A window will pop up asking you to choose the location for the extracted files, by default, it extracts to the same folder as the .zip. Once you’ve decided the location, click *Extract*. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
 
 *For .RAR or .7z:*  
+
 For these types of files, you’ll need to download a software that will allow you to extract the file, an example is [WinRAR](<https://www.win-rar.com/download.html?&L=0>)  or [The Unarchiver](<https://theunarchiver.com/>). 
-- For *MacOS* locate your file in Finder and right-click on the file. You’ll see the option *Open With > The Unarchiver*, click on that. The software will then extract the file and create a new folder containing that content. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
-- For *Windows* locate your file in File Explorer and right-click on the file. You’ll see the option Extract to [folder name of file], click on that. The software will then extract the file and create a new folder, with the same name, containing that contents. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. 
+
+- For *MacOS* locate your file in Finder and right-click on the file. You will see the option *Open With > The Unarchiver*, click on that. The software will then extract the file and create a new folder containing that content. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script.
+
+- For *Windows* locate your file in File Explorer and right-click on the file. You’ll see the option *Extract to [folder name of file]*, click on that. The software will then extract the file and create a new folder, with the same name, containing that content. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. 
 
 ## 3. ***I’ve installed some CC/Mods, and now my game is not working?***  
 
-Sometimes, after adding CC or Mods into your game, the game doesn't work. The is usually something wrong like compatibility issues, for example you've downloaded CC for *The Sims 3* instead of *The Sims 4*, or the CC itself can be broken and cause your game not to work. Sadly, there is no easy way to figure out which file it is, which can be a pain if you have a lot off CC and Mods in your game. However, there is a method you can apply to help figure out which file it could be. 
- - Think back to the last time your game was working. Let us say, for example, that your game was working two days ago. Within the two days, think about how much CC you've downloaded. Again let's say you've only downloaded 3 files in the two day span, then it's probably one of those 3 files. Remove all three files and one by one add them back into the game, whichever one crashes the game is probably the cause. 
+Sometimes, after adding CC or Mods to your game, the game doesn't work. Usually, it is compatibility issues. For example, you've downloaded CC for *The Sims 3* instead of *The Sims 4*, or the CC itself is broken, causing your game to not work. There is no easy way to figure out which file it is, which can be difficult if there are a lot of CC and Mods in your game. However, there is a method you can use to help figure out what is causing you trouble.
+
+ - Think back to the last time your game was working. Let us say that your game was working two days ago. Within the two days, think about how much CC you've downloaded. Again let us say you've only downloaded 3 files in a two-day period, then it's probably one of those 3 files. Remove all three files and one by one add them back into the game, whichever one crashes the game is probably the cause. 
 
 ## 4. ***I’ve updated my game, and now my CC and Mods are not working?***  
 
-Often when CC and Mods are create,d they are created to be compatible with the latest version of the game at the time. As *The Sims 4* updates, the CC/Mods need to be updated too. Remove the current version of the CC/Mods not working from your game and find the updated version compatible with the updated game. Often if you look up the title of the CC you should be able to find the creator.
+Often, when CC and Mods are created, they are created to be compatible with the latest version of the game at the time. As *The Sims 4* updates, the CC/Mods need to be updated too. Remove the current version of the CC/Mods not working from your game and find the updated version compatible with the updated game. Often if you look up the title of the CC you should be able to find the creator.
 
 ---  
 
 # Glossary
 ## 1. **Custom Content (CC)**- 
-Created content that alters the appearance and functionality of a game in mostly aesthetic ways. Examples include clothing, accessories, makeup, furniture, and decor.
+Content created by users that alter the appearance and functionality of the game. Examples include clothing, accessories, makeup, furniture, and decor.
 
 ## 2. **Mods (Modifications)**- 
-Alter the game's mechanics and how the game itself functions. 
+Alter the mechanics of the game and how the game itself functions. 
 
 ## 3. **EA** -
-EA is a digital interactive entertainment company, who focuses on creating games and experiences that provide storytelling and allow their online communities to grow. Popular games include The Sims™, *Apex Legends™*, *EA SPORTS™ Madden NFL*, etc.
+EA is a digital interactive entertainment company that focuses on creating games and experiences that provide storytelling and allow their online communities to grow. Popular games include *The Sims*, *Apex Legends*, *EA Sports Madden NFL*, etc.
 
 ## 4. **Steam** - 
-Steam is a digital content distribution platform first created in 2003. It allows creators and publishers to produce content and allows them to interact with consumers. Over the years, the community has grown into millions of players interacting with each other, sharing thoughts and ideas.   
+Steam is a digital content distribution platform. It allows creators and publishers to produce content and interact with consumers.
 
 # Work Cited
 <https://www.britannica.com/topic/The-Sims>    
