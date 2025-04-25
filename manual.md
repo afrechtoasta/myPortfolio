@@ -36,11 +36,11 @@
 # What is The Sims 4? 
 *The Sims 4* is a life-simulator game developed by Maxis and published by Electronic Arts. The game was originally released on September 2nd, 2014, for Windows and is the latest installment in the *SimsCity* franchise that first started on February 4th, 2000, with the original game, *The Sims*. *The Sims 4*, like the previous versions of the game, allows players to create and control the lives of virtual people. Players can guide characters through everyday activities, personal aspirations, relationships, and more. Being the most recent version, *The Sims 4* offers enhanced graphics and mechanics compared to the predecessors, allowing a better overall experience for users. Regular updates and releases of expansion packs allow new and exciting things to enhance the game. 
 
-One aspect of *The Sims 4* users enjoy is the ability to modify the game using something called [Custom Content (CC)](##1-custom-content-cc-) and [Mods](#2-mods-modifications). Custom content and Mods can be found online and are usually created by other users to help enhance the game even more. Though it can be exciting and fun, it's important to do it properly to avoid messing up the game. So this manual acts as a guide on how to properly do it.
+One aspect of *The Sims 4* users enjoy is the ability to modify the game using [Custom Content (CC)](##1-custom-content-cc-) and [Mods](#2-mods-modifications). Custom content and Mods can be found online and are usually created by other users to help enhance the game. Though CC and Mods can be exciting and fun, it's important to understand how to properly use them to avoid messing up the game. This manual acts as a guide on how to use CC and Mods.
 
 ---
 # System Requirements and Installation
-To begin, you will need to have *The Sims 4* downloaded on your personal computer, PC. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide, we will use the [EA app](#3-ea) to download the software to give support to the creators of *The Sims* franchise. 
+To begin, you will need to have *The Sims 4* downloaded on your personal computer, PC. This guide is only for PCs with *Windows* and *MacOS* as the operating system. There are a couple of ways to access and download *The Sims 4*, but for this guide, it will use the [EA app](#3-ea) to download the software to support the creators of *The Sims* franchise. 
 
 ## 1. Installing Sims 4 using the EA app:
 First, open up the EA app. If you haven’t downloaded the app or created your account, check [here](#1-how-do-i-access-the-ea-app) in the FAQ for guidance on how to do that.
@@ -48,12 +48,12 @@ First, open up the EA app. If you haven’t downloaded the app or created your a
 ![Figure 1](https://github.com/user-attachments/assets/e72df173-c297-46eb-89f9-0c3ebfcb380d)
 *Figure 1* 
 
- - Once the app is open, on the left side you'll see four labels, *Home*, *Browse*, *Library*, *EA Play* as seen in Figure 1, click on *Library*
- - If you own *The Sims 4*, you should be able to locate it in your library. If you don't see it in your library, it means you still need to purchase it, which is easy and quick to do
- - To purchase the game, click on the search bar above *Library*, as seen in *Figure 1*, and search *The Sims 4*
- - Once you have clicked on the game, you will see the option to purchase *The Sims 4*
- - After purchasing the game, it should then be added to your *Library*, so migrate back to your *Library* and find *The Sims 4*
- - Click on the game again, and you’ll see *Download*, click on it
+ - Once the app is open, on the left side you'll see four labels, *Home*, *Browse*, *Library*, *EA Play* as seen in *Figure 1*, click on *Library*.
+ - If you own *The Sims 4*, you should be able to locate it in your *Library*. If you don't see it in your *Library*, it means you still need to purchase it.
+ - To purchase the game, click on the search bar above *Library*, as seen in *Figure 1*, and search *The Sims 4*.
+ - Once you have clicked on the game, you will see the option to purchase *The Sims 4*.
+ - After purchasing the game, it will be added to your *Library*, so migrate back to your *Library* and find *The Sims 4*.
+ - Click on the game again, and you’ll see the option *Download*, click on it.
 
 ## 2. **Tip!**   
 
