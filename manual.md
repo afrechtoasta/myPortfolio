@@ -78,25 +78,25 @@ There are multiple ways to download *The Sims 4*. If you are unable to download 
 # Where to find CC and Mods
 
 ## 1. Safety When Searching 
-There are multiple places you can find CC or Mods for your game. Common choices are websites or social media. When searching online you must understand the possible risk you take when downloading from places you don't know well. Certain websites can be unsafe, and files may not be as they appear. Not only putting your game at risk, but your computer's security at risk. 
+There are multiple places you can find CC or Mods for your game. Common choices are websites or social media. When searching online, you must understand the possible risk you take when downloading from places you don't know well. Certain websites can be unsafe, and files may not be as they appear. Not only putting your game at risk, but your computer's security at risk. 
 
 Safe Habits:
 
-   - Find user reviews or community discussions about different websites. A great resource is the discussion board for *The Sims 4* on the [EA website](<https://forums.ea.com/category/the-sims-4-en>). In the discussion board you can find all types of information, not just about CC and Mods. Another resource is [*The Sims 4* Mods community](<https://www.reddit.com/r/TheSims4Mods/>) on Reddit.
-   - Avoid files that say *.exe*, which is an executable file. When you double-click on it, it informs your computer to run some type of program. In regards to *The Sims 4*, you don't need .exe files, so make sure to avoid them. If you accidentally download one, simply delete it, just make sure not to double-click during the deletion process. To know what type of files you should see, check the [types or kind of files section](#2-The-Type-or-Kind-of-File)
+   - Find user reviews or community discussions about different websites. A great resource is the discussion board for *The Sims 4* on the [EA website](<https://forums.ea.com/category/the-sims-4-en>). In the discussion board, you can find all types of information, not just about CC and Mods. Another resource is [*The Sims 4* Mods community](<https://www.reddit.com/r/TheSims4Mods/>) on Reddit.
+   - Avoid files that say *.exe*, which is an executable file. When you double-click on it, it informs your computer to run a program embedded in the file. For *The Sims 4*, .exe files are not needed. Make sure to avoid them. If you accidentally download one, delete it. Remember not to double-click during the deletion process. To know what type of files you should see, check the [types or kind of files section](#2-The-Type-or-Kind-of-File)
 
-Luckily, there are some common places known by many users where you can share and get cc from.
+Luckily, there are some common places known by many users where you can share and get CC from.
 
 ## 2. Popular CC Sources
-   1. [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) is a well-known place that acts as a platform for other players who have created CC to share it with others. You can find CC for *The Sims 1, 2, 3, and 4* on the page
-   2. [ModTheSims](<https://modthesims.info/>) is another popular place to find CC and just like TSR it provides CC for *The Sims 1, 2, 3, and 4*.
+   1. [The Sims Resource (TSR)](<https://www.thesimsresource.com/>) is a well-known place that serves as a platform for other players who have created CC to share. You can find CC for *The Sims 1, 2, 3, and 4* on the website.
+   2. [ModTheSims](<https://modthesims.info/>) is another popular platform, like TSR, that provides CC for *The Sims 1, 2, 3, and 4*.
 
-Some other options are social media platforms like [Tumblr](<https://www.tumblr.com/>) or [Pinterest](<https://www.pinterest.com/>), where the creators themselves will post their creations, but again, it's important to ensure that the independent creators are trustworthy; Make sure to do your research. 
+Some other options are social media platforms like [Tumblr](<https://www.tumblr.com/>) or [Pinterest](<https://www.pinterest.com/>), where the creators will post their creations. It is important to ensure that the independent creators are trustworthy. Remember to do your research. 
 
 ---
 # Downloading your CC and Mods
 
-As iterated in [Safety When Searching](#1-Safety-When-Searching), when on websites and social media platforms it's important to exercise online safety. Avoid clicking on ads or things that have nothing to do with the purpose of you on that website or platform. Downloading Ad blocker extensions on your browser can help protect yourself when searching online. 
+As iterated in [Safety When Searching](#1-Safety-When-Searching), it is important to exercise online safety. Avoid clicking on ads unrelated to your purpose on that website or platform. Downloading Ad blocker extensions on your browser can help protect yourself when searching online. 
 
 ![Figure 1](https://github.com/user-attachments/assets/b0d087bd-3609-4520-85df-42fe1b7cb7ca)
 *Figure 4*  
@@ -111,22 +111,23 @@ As iterated in [Safety When Searching](#1-Safety-When-Searching), when on websit
 ![Figure 3](https://github.com/user-attachments/assets/2b90e7dd-40c9-4fe7-9b9a-976212b54be3)  
 *Figure 6*  
 
-Oftentimes, when you are about to click a link, in the bottom left of your browser, you’ll see what exactly the link is. In *Figure 5*, I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game, clicking on this would take me to another page, but what is the said page? Well, in the bottom corner, you’ll see the URL, which *Figure 6* provides a close-up of.
+When on a website, before you click a link on the page, in the bottom left corner of your browser, you'll find a preview of the link. In *Figure 5*, I’m on The Sims Resource (TSR) hovering over a pair of earrings I want for my game. Clicking on this would take me to another page, which *Figure 6* provides a close-up of.
 
 
 ---
 # How to install your CC and Mods 
-Once you've downloaded your CC its time to install it into your game. First, we need to extract the file. 
+Once you've downloaded your CC it is time to install it into the game. First, the file needs to be extracted. 
 
 ## 1. Extracting Files 
   - Navigate to File Explorer on Windows and Finder on MacOS. Once there, find the ‘Download’ section and click on it.
-  - Find the file you downloaded and click on it to highlight it.
-  - You’ll notice that each file has information about it broken into columns, like Name, Size, Date Added, or Date Modified. We are looking at the column titled either Type or Kind. So, focusing on your highlighted file find
+  - Find the file you downloaded and right-click to highlight it.
+  - You’ll notice that each file has information about it broken into columns, like *Name*, *Size*, *Date Added*, or *Date Modified*. Based on your operating system, the column to focus on is titled either *Type* or *Kind*. 
 
-## 2. The Type or Kind of File   
-  - If you see .package, .ts4script, or .txt, it won’t have to be extracted, so you can move to the next section.
-  - If you see .zip, .rar, or .7z, it’ll have to be extracted. Which can be found [here](#2-how-do-i-extract-my-files-after-downloading-them) in the FAQ section.
-  - Once the file has been extracted it's time to place it into the game, select the file and press either Command + C or Ctrl + X
+## 2. The Type or Kind of File 
+  - Note what it says in the *Type* or *Kind* column.
+  - If you see .package, .ts4script, or .txt, it won’t have to be extracted; move to the next section.
+  - If you see .zip, .rar, or .7z, it will have to be extracted. Instructions on how to do that can be found [here](#2-how-do-i-extract-my-files-after-downloading-them) in the FAQ section.
+  - Once the file has been extracted, it is time to place the file into the game. Select the file and press either Command + C or Ctrl + X.
 
 ## 3. Installing CC Into Game For *Windows*:  
    - Open up *File Explorer*
@@ -136,14 +137,14 @@ Once you've downloaded your CC its time to install it into your game. First, we 
    - Find the folder titled *Documents*, double-click on that
    - Click on the folder titled *Electronic Arts*, double-click on that
    - Finally find the folder titled *Mods*, double click on that
-   - Once there, paste the document in the folder by hitting Ctrl + V
+   - Once there, paste the file in the folder by hitting Ctrl + V
 
 ## 4. Installing CC Into Game For *MacOS*:
    - Open up *Finder*
    - Find the folder titled *Documents*, double-click on that
    - Click on the folder titled *Electronic Arts*, double-click on that
    - Finally find the folder titled *Mods*, double click on that
-   - Once there, paste the document in the folder by hitting command + v
+   - Once there, paste the document in the folder by hitting Command + V
 
 
 ## 5. **Tip!**
