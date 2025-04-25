@@ -130,30 +130,31 @@ Once you've downloaded your CC it is time to install it into the game. First, th
   - Once the file has been extracted, it is time to place the file into the game. Select the file and press either Command + C or Ctrl + X.
 
 ## 3. Installing CC Into Game For *Windows*:  
-   - Open up *File Explorer*
-   - On the left hand you'll see *This PC*, click on it, then you'll locate *Windows(C:)* and double click on that.
-   - Find the folder titled *Users*, double-click on that
-   - Now find the folder titled after your username, and double-click on that
-   - Find the folder titled *Documents*, double-click on that
-   - Click on the folder titled *Electronic Arts*, double-click on that
-   - Finally find the folder titled *Mods*, double click on that
-   - Once there, paste the file in the folder by hitting Ctrl + V
+   - Open up *File Explorer*.
+   - On the left-hand side, you'll see *This PC*, click on it.
+   - Then locate *Windows(C:)* and double click on that.
+   - Find the folder titled *Users*, double-click on that.
+   - Now find the folder titled after your username, and double-click on that.
+   - Find the folder titled *Documents*, double-click on that.
+   - Click on the folder titled *Electronic Arts*, double-click on that.
+   - Finally find the folder titled *Mods*, double click on that.
+   - Once there, paste the file in the folder by hitting Ctrl + V.
 
 ## 4. Installing CC Into Game For *MacOS*:
-   - Open up *Finder*
-   - Find the folder titled *Documents*, double-click on that
-   - Click on the folder titled *Electronic Arts*, double-click on that
-   - Finally find the folder titled *Mods*, double click on that
-   - Once there, paste the document in the folder by hitting Command + V
+   - Open up *Finder*.
+   - Find the folder titled *Documents*, double-click on that.
+   - Click on the folder titled *Electronic Arts*, double-click on that.
+   - Finally find the folder titled *Mods*, double click on that.
+   - Once there, paste the document in the folder by hitting Command + V.
 
 
 ## 5. **Tip!**
-   - Create folders within your game to help organize your CC and Mods. It'll help if you're looking for a certain CC file, especially if it's broken and you need to remove it. 
+   - Create folders within your game to help organize your CC and Mods. It will help if you are looking for a specific CC file later on, especially if it is broken and you need to remove it. 
 
 ---
 # Checking to make sure CC and Mods are working  
-- Open the EA app, migrate to the Library, click on The Sims 4, and click the *Play* button to start the game.
-- Once the game loads and you are on the home page, click the three dots in the top right corner
+- Open the EA app, migrate to the Library, click on *The Sims 4*, and click the *Play* button to start the game.
+- Once the game loads and you are on the home page, click the three dots in the top right corner.
 
 ![Screenshot 2025-04-24 031919](https://github.com/user-attachments/assets/95ad0b93-b4ec-49fe-995e-077a44ba3479)   
 *Figure 7*
@@ -164,28 +165,29 @@ Once you've downloaded your CC it is time to install it into the game. First, th
 *Figure 8*
 
 - On the left-hand side find *Other* and click on it, as shown in *Figure 8*
-- Make sure a checkmark is present in the box next to the *FILL* and the box next to *Script Mods Allowed*, this will enable your Mods and CC in the game.
+- Make sure a checkmark is present in the box next to the *Enable Custom Content and Mods* and the box next to *Script Mods Allowed*, this will enable your Mods and CC in the game.
 
 ![Screenshot 2025-04-24 032229](https://github.com/user-attachments/assets/c877c753-52e9-4adc-a46b-cd11072a9fc4)
 *Figure 9*
 
-- A pop-up will inform you to restart your game, since we've made some changes, hit *Ok*. As shown in *Figure 9*
+- A pop-up will inform you to restart your game, because changes have been made, hit *Ok*. As shown in *Figure 9*
+
 ![Screenshot 2025-04-24 032245](https://github.com/user-attachments/assets/44df6fd4-0353-4474-b518-259627e416b5)
 *Figure 10*
 
-- Before you exit! In the bottom right corner, click *Apply Changes*, which saves all the changes we have made while in the *Menu*. If we don't hit *Apply Changes*, our CC and Mods will still be disabled when we restart the game.
+- Before you exit! In the bottom right corner, click *Apply Changes*, which saves all the changes made while in the *Menu*. If you do not hit *Apply Changes*, the CC and Mods will still be disabled when you restart the game.
 
 ![Screenshot 2025-04-24 034135](https://github.com/user-attachments/assets/1ac80254-f875-4c96-8806-d29565bea5ba)   
 *Figure 11*
 
-- Now exit out and back on the *Menu* page select *Exit Game*, as shown in *Figure 11*
+- Migrate back to the *Menu* page select *Exit Game*, as shown in *Figure 11*
 
 ![Screenshot 2025-04-24 033439](https://github.com/user-attachments/assets/a886408e-9a66-4a8b-9e1e-041a4afab0e1)   
 *Figure 12*
 
-Now when you restart your game, you should be greeted with a list of all your mods, as shown in *Figure 12*, which means you have properly enabled your cc or mods. As you can see, the dress I just downloaded is in the game. Now you should be able to use your CC or mods in the game. If you don't see this message no worries, check to see if your changes were successfully saved. If they weren't just repeat these steps. 
+Now, when you restart your game, you should be greeted with a list of all your Mods, as shown in *Figure 12*, which means you have properly enabled your CC or Mods. Now you should be able to use your CC or Mods in the game. If you don't see this message, no worries, check to see if your changes were successfully saved. If they were not, repeat these steps. 
 
-If your game is not working, for example, stuck on the loading page, check FAQ [here](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working).
+If your game is not working and you are sure you have enabled CC and Mods, check the FAQ [here](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working).
 
 --- 
 # FAQ
