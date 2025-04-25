@@ -27,7 +27,7 @@
 7. [FAQ](#FAQ)
    1. [How do I access the EA App?](#1-how-do-i-access-the-ea-app)
    2. [How do I extract my files after downloading them?](#2-how-do-i-extract-my-files-after-downloading-them)
-   3. [I’ve installed some CC/Mods, and now my game is not working?](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working)
+   3. [I’ve installed some CC and Mods, and now my game is not working?](#3-ive-installed-some-ccmods-and-now-my-game-is-not-working)
    4. [I’ve updated my game, and now my CC and Mods are not working?](#4-ive-updated-my-game-and-now-my-cc-and-mods-are-not-working)
 8. [Glossary](#Glossary)
 9. [Work Cited](#Work-Cited)
@@ -218,7 +218,7 @@ For these types of files, you’ll need to download a software that will allow y
 
 - For *Windows* locate your file in File Explorer and right-click on the file. You’ll see the option *Extract to [folder name of file]*, click on that. The software will then extract the file and create a new folder, with the same name, containing that content. Click on the folder and you should find the contents of the file, ie. the .package or .ts4script. 
 
-## 3. ***I’ve installed some CC/Mods, and now my game is not working?***  
+## 3. ***I’ve installed some CC and Mods, and now my game is not working?***  
 
 Sometimes, after adding CC or Mods to your game, the game doesn't work. Usually, it is compatibility issues. For example, you've downloaded CC for *The Sims 3* instead of *The Sims 4*, or the CC itself is broken, causing your game to not work. There is no easy way to figure out which file it is, which can be difficult if there are a lot of CC and Mods in your game. However, there is a method you can use to help figure out what is causing you trouble.
 
