@@ -61,7 +61,7 @@ First, open up the EA app. If you haven’t downloaded the app or created your a
 ![Figure 2](https://github.com/user-attachments/assets/9590af9f-f09c-4f09-b145-9208d723814c)
 *Figure 2*  
 
- - You'll notice a tab that says *Bundle & Save*. Say you have been eyeing expansion packs to change your gameplay. Throughout the year, deals will occur that ultimately save money by bundling expansion packs together. Check often to see if there is a sale on an expansion packs.
+ - You'll notice a tab that says *Bundle & Save*. Say you have been eyeing expansion packs to change your gameplay. Throughout the year, deals will occur that ultimately save money by bundling expansion packs together. Check often to see if there is a sale on expansion packs.
 
 
 ![Figure 3](https://github.com/user-attachments/assets/fa8ec17e-65ed-442d-854c-6d058d3efcb4)   
