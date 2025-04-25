@@ -60,14 +60,14 @@ First, open up the EA app. If you haven’t downloaded the app or created your a
 ![Figure 2](https://github.com/user-attachments/assets/9590af9f-f09c-4f09-b145-9208d723814c)
 *Figure 2*  
 
- - You'll notice a tab that says *Bundle & Save*. Let us say you have been eyeing expansion packs, created by the Sims developers, to change your gameplay. Throughout the year, deals will occur that can help you save money by bundling up the number of expansion packs that, in total, will cost you less. So be sure to check often to see if there is a sale on an expansion pack you want.
+ - You'll notice a tab that says *Bundle & Save*. Say you have been eyeing expansion packs to change your gameplay. Throughout the year, deals will occur that can help you save money by bundling up the number of expansion packs which, in total, will cost you less but give you more. So be sure to check often to see if there is a sale on an expansion pack you want.
 
 
 ![Figure 3](https://github.com/user-attachments/assets/fa8ec17e-65ed-442d-854c-6d058d3efcb4)   
 *Figure 3*  
 
- - The game should begin to download, which you can see in the bottom left corner of the screen in *Figure 3*. My game is currently updating, so it says updating rather than downloading. Once it's finished, the game should automatically install onto your PC
- - To start the game, just open the EA app, migrate to the *Library*, click on *The Sims 4*, and click the *Play* button to start the game
+ - The game should begin to download, which you can see in the bottom left corner of the screen in *Figure 3*. [My game is currently updating, so it says updating rather than downloading.] When it's finished, the game should automatically install onto your PC
+ - To start the game, open the EA app, migrate to the *Library*, click on *The Sims 4*. Click the *Play* button to start the game.
 
 ## 3. Alternative to the EA app by using Steam to download *The Sims 4*:
 As mentioned before, there are multiple ways to download *The Sims 4*. If you don't want to download the game via the EA app, another popular option is through [Steam](#4-steam). Though it is a different platform, the instructions to download the 
